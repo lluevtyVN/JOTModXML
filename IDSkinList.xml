@@ -1,0 +1,1158 @@
+<?xml version="1.0" ?>
+<JOTMod value="IDSkinList" >
+    <Hero105>
+        <Item ID="10501" Name="Toro Đặc cảnh NYPD"/>
+        <Item ID="10502" Name="Toro Trung phong cắm"/>
+        <Item ID="10503" Name="Toro Thần thoại Hy Lạp"/>
+        <Item ID="10504" Name="Toro Ngưu hải vương"/>
+        <Item ID="10505" Name="Toro Bạch mao ngưu"/>
+    </Hero105>
+    <Hero106>
+        <Item ID="10601" Name="Krixi None"/>
+        <Item ID="10602" Name="Krixi Xứ sở thần tiên"/>
+        <Item ID="10603" Name="Krixi Tiệc bãi biển"/>
+        <Item ID="10604" Name="Krixi Cô tiên thỏ"/>
+        <Item ID="10605" Name="Krixi Phó văn nghệ"/>
+        <Item ID="10606" Name="Krixi Tiểu yêu nữ"/>
+        <Item ID="10607" Name="Krixi Nữ hoàng thiên nga"/>
+        <Item ID="10608" Name="Krixi Thần thoại Hy Lạp"/>
+        <Item ID="10609" Name="Krixi Thủy thủ"/>
+        <Item ID="10611" Name="Krixi Lốc xoáy kinh hoàng Tatsumaki"/>
+        <Item ID="10613" Name="Krixi Nàng tiên nổi loạn"/>
+        <Item ID="10615" Name="Krixi Tiểu hồng mai"/>
+        <Item ID="10617" Name="Krixi Quán quân"/>
+        <Item ID="10620" Name="Krixi Phù thủy thời không"/>
+    </Hero106>
+    <Hero107>
+        <Item ID="10701" Name="Zephys Oán linh"/>
+        <Item ID="10703" Name="Zephys Hiệp sĩ bí ngô"/>
+        <Item ID="10704" Name="Zephys Dung nham"/>
+        <Item ID="10705" Name="Zephys Siêu việt"/>
+        <Item ID="10706" Name="Zephys Phi thương"/>
+        <Item ID="10707" Name="Zephys Tư lệnh viễn chinh"/>
+        <Item ID="10708" Name="Zephys Hắc vô thường"/>
+        <Item ID="10709" Name="Zephys Inosuke Hashibira"/>
+        <Item ID="10711" Name="Zephys Đầu bếp Sashimi"/>
+        <Item ID="10712" Name="Zephys [ex]"/>
+    </Hero107>
+    <Hero108>
+        <Item ID="10801" Name="Gildur Tiệc bãi biển"/>
+        <Item ID="10802" Name="Gildur Phượt thủ"/>
+        <Item ID="10803" Name="Gildur Đại gia học viện"/>
+        <Item ID="10804" Name="Gildur Đại võ sư"/>
+        <Item ID="10805" Name="Gildur Thuyền trưởng râu bạc"/>
+        <Item ID="10806" Name="Gildur Bác học thiên tài"/>
+        <Item ID="10807" Name="Gildur Phù thủy Ba Tư"/>
+        <Item ID="10809" Name="Gildur Xích Long"/>
+    </Hero108>
+    <Hero109>
+        <Item ID="10901" Name="Veera Cô giáo hắc ám"/>
+        <Item ID="10902" Name="Veera Góa phụ giả kim"/>
+        <Item ID="10903" Name="Veera Nàng dơi tuyết"/>
+        <Item ID="10904" Name="Veera Y tá bạo loạn"/>
+        <Item ID="10905" Name="Veera Thiên nga đen"/>
+        <Item ID="10906" Name="Veera Vũ hội bóng đêm"/>
+        <Item ID="10907" Name="Veera Kimono"/>
+        <Item ID="10908" Name="Veera Vũ điệu samba"/>
+        <Item ID="10910" Name="Veera Đánh cắp trái tim"/>
+        <Item ID="10911" Name="Veera Dơi hắc ám"/>
+        <Item ID="10912" Name="Veera A.I love you"/>
+        <Item ID="10913" Name="Veera Bách hoa tiên nữ"/>
+    </Hero109>
+    <Hero110>
+        <Item ID="11001" Name="Kahlii Cô dâu hắc ám"/>
+        <Item ID="11003" Name="Kahlii Quàng khăn đỏ"/>
+        <Item ID="11004" Name="Kahlii Kim cô giáo chủ"/>
+        <Item ID="11005" Name="Kahlii Siêu đầu bếp"/>
+        <Item ID="11006" Name="Kahlii Vũ hội bóng đêm"/>
+        <Item ID="11007" Name="Kahlii Tử Điệp"/>
+        <Item ID="11008" Name="Kahlii Robot hộ lý"/>
+    </Hero110>
+    <Hero111>
+        <Item ID="11101" Name="Violet Nữ hoàng pháo hoa"/>
+        <Item ID="11102" Name="Violet Nữ đặc cảnh"/>
+        <Item ID="11103" Name="Violet Phi công trẻ"/>
+        <Item ID="11104" Name="Violet Mèo siêu quậy"/>
+        <Item ID="11105" Name="Violet Tiệc bãi biển"/>
+        <Item ID="11106" Name="Violet Phó học tập"/>
+        <Item ID="11107" Name="Violet Thứ nguyên vệ thần"/>
+        <Item ID="11108" Name="Violet Pháo hoa Neon"/>
+        <Item ID="11109" Name="Violet Đặc dị"/>
+        <Item ID="11110" Name="Violet Vợ người ta"/>
+        <Item ID="11111" Name="Violet Tay súng siêu phàm"/>
+        <Item ID="11112" Name="Violet Huy chương vàng"/>
+        <Item ID="11113" Name="Violet Huyết ma thần"/>
+        <Item ID="11114" Name="Violet Lam tước"/>
+        <Item ID="11115" Name="Violet Thần Long tỷ tỷ"/>
+        <Item ID="11116" Name="Violet DJ Câu hồn"/>
+        <Item ID="11117" Name="Violet Bách hoa tiên nữ"/>
+        <Item ID="11119" Name="Violet Vọng nguyệt Long Cơ"/>
+    </Hero111>
+    <Hero112>
+        <Item ID="11201" Name="Yorn Cung thủ bóng đêm"/>
+        <Item ID="11202" Name=""/>
+        <Item ID="11203" Name="Yorn Đặc nhiệm SWAT"/>
+        <Item ID="11204" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11205" Name="Yorn Long thần soái"/>
+        <Item ID="11206" Name="Yorn Nam thần giáng sinh"/>
+        <Item ID="11207" Name="Yorn Soái ca học đường"/>
+        <Item ID="11208" Name="Yorn Thần thoại Hy Lạp"/>
+        <Item ID="11209" Name="Yorn Lục nguyệt cung"/>
+        <Item ID="11211" Name="Yorn Tiệc bãi biển"/>
+        <Item ID="11212" Name="Yorn Vệ Binh ngân hà"/>
+    </Hero112>
+    <Hero113>
+        <Item ID="11301" Name="Chaugnar Ác mộng sinh hóa"/>
+        <Item ID="11303" Name="Chaugnar Quang vinh"/>
+        <Item ID="11304" Name="Chaugnar Quân cảnh"/>
+    </Hero113>
+    <Hero114>
+        <Item ID="11402" Name="Omega Người máy xanh"/>
+        <Item ID="11403" Name="Omega Cỗ máy siêu tốc"/>
+        <Item ID="11404" Name="Omega Hộ vệ ba bích"/>
+    </Hero114>
+    <Hero115>
+        <Item ID="11501" Name="Jinna Đại tư tế"/>
+        <Item ID="11502" Name="Jinna Dạ xoa vương"/>
+        <Item ID="11503" Name="Jinna Hỏa nhãn ma vương"/>
+        <Item ID="11504" Name="Jinna Kim quang thánh đồ"/>
+        <Item ID="11506" Name="Jinna Kim giác"/>
+    </Hero115>
+    <Hero116>
+        <Item ID="11601" Name="Butterfly Xuân nữ ngổ ngáo"/>
+        <Item ID="11602" Name="Butterfly Thủy thủ"/>
+        <Item ID="11603" Name="Butterfly Teen nữ công nghệ"/>
+        <Item ID="11604" Name="Butterfly Nữ quái nổi loạn"/>
+        <Item ID="11605" Name="Butterfly Quận chúa đế chế"/>
+        <Item ID="11606" Name="Butterfly Đông êm đềm"/>
+        <Item ID="11607" Name="Butterfly Phượng cửu thiên"/>
+        <Item ID="11608" Name="Butterfly Cẩm y vệ: Chu tước"/>
+        <Item ID="11610" Name="Butterfly Asuna Tia Chớp"/>
+        <Item ID="11611" Name="Butterfly Stacia"/>
+        <Item ID="11613" Name="Butterfly Gánh anh đến cùng"/>
+        <Item ID="11614" Name="Butterfly Kim Ngư thần nữ"/>
+        <Item ID="11616" Name="Butterfly Nữ thần Khởi nguyên"/>
+        <Item ID="11618" Name="Butterfly Tình yêu nổi loạn"/>
+        <Item ID="11619" Name="Butterfly [ex]未命名"/>
+        <Item ID="11632" Name="u cảm Killua 5N None"/>
+    </Hero116>
+    <Hero117>
+        <Item ID="11701" Name="Ormarr Cựu chiến binh"/>
+        <Item ID="11703" Name="Ormarr Thông thỏa thích"/>
+        <Item ID="11704" Name="Ormarr Giáo viên thể hình"/>
+        <Item ID="11705" Name="Ormarr Ông chủ KFC"/>
+        <Item ID="11706" Name="Ormarr CĐV Cuồng nhiệt"/>
+    </Hero117>
+    <Hero118>
+        <Item ID="11801" Name="Alice Nhà chiêm tinh"/>
+        <Item ID="11802" Name="Alice Phi hành gia"/>
+        <Item ID="11803" Name="Alice Bé gấu tuyết"/>
+        <Item ID="11804" Name="Alice Xứ sở thần tiên"/>
+        <Item ID="11805" Name="Alice Dạ hội"/>
+        <Item ID="11806" Name="Alice Tiểu quỷ bí ngô"/>
+        <Item ID="11807" Name="Alice Bé du xuân"/>
+        <Item ID="11808" Name="Alice Quân nhạc Athanor"/>
+        <Item ID="11809" Name="Alice Tiểu tiên tử"/>
+        <Item ID="11810" Name="Alice The Butterfly Mansion Girl"/>
+        <Item ID="11812" Name="Alice Eternal Sailor Chibi Moon"/>
+        <Item ID="11816" Name="Alice Xứ sở diệu kỳ"/>
+        <Item ID="11817" Name="Alice Ốc quế tinh nghịch"/>
+    </Hero118>
+    <Hero119>
+        <Item ID="11901" Name="Mganga Hề cung đình"/>
+        <Item ID="11902" Name="Mganga Tiệc bánh kẹo"/>
+        <Item ID="11903" Name="Mganga Pháp sư mèo"/>
+        <Item ID="11904" Name="Mganga Nhà hóa học"/>
+        <Item ID="11905" Name="Mganga Độc toàn thân"/>
+        <Item ID="11906" Name="Mganga Quái tặc không gian"/>
+    </Hero119>
+    <Hero120>
+        <Item ID="12001" Name="Mina Tiểu thư đoạt hồn"/>
+        <Item ID="12002" Name="Mina None"/>
+        <Item ID="12003" Name="Mina Tiệc bánh kẹo"/>
+        <Item ID="12004" Name="Mina Kẹo hay ghẹo"/>
+        <Item ID="12005" Name="Mina Lưỡi hái hoàng kim"/>
+        <Item ID="12006" Name="Mina Đào tạo siêu sao"/>
+        <Item ID="12007" Name="Mina Nữ thần Ai Cập"/>
+        <Item ID="12008" Name="Mina Linh xà Yêu vũ"/>
+    </Hero120>
+    <Hero121>
+        <Item ID="12101" Name="Marja Lam Hải yêu hậu"/>
+        <Item ID="12102" Name="Marja Linh xà tư tế"/>
+        <Item ID="12103" Name="Marja Hỏa ngọc nữ vương"/>
+        <Item ID="12104" Name="Marja Yêu nữ săn mồi"/>
+        <Item ID="12105" Name="Marja Chủ hôn"/>
+    </Hero121>
+    <Hero123>
+        <Item ID="12301" Name="Maloch Ác ma địa ngục"/>
+        <Item ID="12302" Name="Maloch Tiệc hóa trang"/>
+        <Item ID="12303" Name="Maloch Samurai tử sĩ"/>
+        <Item ID="12304" Name="Maloch Đại tướng Rô bốt"/>
+        <Item ID="12305" Name="Maloch Ông kẹ bí ngô"/>
+        <Item ID="12306" Name="Maloch Ác nhân vô tuyến"/>
+        <Item ID="12307" Name="Maloch Vũ hội bóng đêm"/>
+        <Item ID="12308" Name="Maloch Đại ca Mukbang"/>
+        <Item ID="12309" Name="Maloch Quỷ nhãn ma thể"/>
+        <Item ID="12310" Name="Maloch Đao phủ Dạ Ưng"/>
+    </Hero123>
+    <Hero124>
+        <Item ID="12401" Name="Ignis Hỏa thuật sư"/>
+        <Item ID="12402" Name="Ignis Quang vinh"/>
+        <Item ID="12403" Name="Ignis Bắc băng vương"/>
+        <Item ID="12404" Name="Ignis Thầy tế mặt trời"/>
+        <Item ID="12405" Name="Ignis Thần mặt trời"/>
+    </Hero124>
+    <Hero126>
+        <Item ID="12601" Name=""/>
+        <Item ID="12602" Name="Arduin Quang vinh"/>
+        <Item ID="12603" Name="Arduin Tà linh hiệp sỹ"/>
+        <Item ID="12604" Name="Arduin Chiến binh cổ đại"/>
+        <Item ID="12605" Name="Arduin Đường vào tim em"/>
+        <Item ID="12606" Name="Arduin Bạch vệ chiến giáp"/>
+        <Item ID="12607" Name="Arduin Organ cổ quái"/>
+    </Hero126>
+    <Hero127>
+        <Item ID="12702" Name="Azzen'Ka Linh hồn lữ khách"/>
+        <Item ID="12703" Name="Azzen'Ka Ghẹo hay kẹo"/>
+        <Item ID="12704" Name="Azzen'Ka Quỷ diện lãng khách"/>
+        <Item ID="12705" Name="Azzen'Ka Quang vinh 2.0"/>
+    </Hero127>
+    <Hero128>
+        <Item ID="12801" Name="Lữ Bố Tiệc bãi biển"/>
+        <Item ID="12802" Name="Lữ Bố Nam vương"/>
+        <Item ID="12803" Name="Lữ Bố Long kỵ sĩ"/>
+        <Item ID="12804" Name="Lữ Bố Kỵ sĩ âm phủ"/>
+        <Item ID="12805" Name="Lữ Bố Đặc nhiệm SWAT"/>
+        <Item ID="12806" Name="Lữ Bố Tư lệnh Robot"/>
+        <Item ID="12807" Name="Lữ Bố Hỏa long chiến thần"/>
+        <Item ID="12808" Name="Lữ Bố Ichigo Kurosaki"/>
+        <Item ID="12809" Name="Lữ Bố Thần ngọc"/>
+        <Item ID="12810" Name="Lữ Bố Vũ điệu samba"/>
+    </Hero128>
+    <Hero129>
+        <Item ID="12901" Name="Triệu Vân Tiến sĩ thiên tài"/>
+        <Item ID="12902" Name="Triệu Vân Đoạt mệnh thương"/>
+        <Item ID="12903" Name="Triệu Vân Quý công tử"/>
+        <Item ID="12904" Name="Triệu Vân Dũng sĩ đồ long"/>
+        <Item ID="12905" Name=""/>
+        <Item ID="12906" Name="Triệu Vân Chiến tướng mùa đông"/>
+        <Item ID="12907" Name="Triệu Vân Kỵ sĩ tận thế"/>
+        <Item ID="12908" Name="Triệu Vân Cẩm y vệ: Hỏa long"/>
+        <Item ID="12910" Name="Triệu Vân Thần tài"/>
+    </Hero129>
+    <Hero130>
+        <Item ID="13001" Name="Airi Thích khách"/>
+        <Item ID="13002" Name="Airi Ninja xanh lá"/>
+        <Item ID="13003" Name="Airi Quái xế công nghệ"/>
+        <Item ID="13004" Name="Airi Cấm vệ nguyệt tộc"/>
+        <Item ID="13005" Name="Airi Kiemono"/>
+        <Item ID="13006" Name="Airi Bạch Kiemono"/>
+        <Item ID="13007" Name="Airi Phó kiếm đạo"/>
+        <Item ID="13008" Name="Airi Tiệc bãi biển"/>
+        <Item ID="13009" Name="Airi Mỵ hồ"/>
+        <Item ID="13010" Name="Airi Đặc công tử điệp"/>
+        <Item ID="13011" Name="Airi Bích Hải thánh nữ"/>
+        <Item ID="13012" Name="Airi Lễ hội mùa xuân"/>
+        <Item ID="13013" Name="Airi Thánh nữ Xiêm La"/>
+        <Item ID="13015" Name="Airi Thứ nguyên Vệ thần"/>
+    </Hero130>
+    <Hero131>
+        <Item ID="13101" Name="Murad Thợ săn tiền thưởng"/>
+        <Item ID="13102" Name="Murad M-TP Thần tượng học đường"/>
+        <Item ID="13103" Name="Murad Đồ thần đao"/>
+        <Item ID="13104" Name=""/>
+        <Item ID="13105" Name=""/>
+        <Item ID="13106" Name=""/>
+        <Item ID="13107" Name=""/>
+        <Item ID="13108" Name=""/>
+        <Item ID="13109" Name=""/>
+        <Item ID="13110" Name=""/>
+        <Item ID="13111" Name=""/>
+        <Item ID="13112" Name=""/>
+        <Item ID="13113" Name=""/>
+        <Item ID="13114" Name="Murad S - Quang vinh"/>
+        <Item ID="13115" Name="Murad Huyết hỏa cuồng đồ"/>
+        <Item ID="13116" Name="Murad Tuyệt thế thần binh"/>
+        <Item ID="13117" Name="Murad [ex]"/>
+    </Hero131>
+    <Hero132>
+        <Item ID="13201" Name="Hayate Bạch ảnh"/>
+        <Item ID="13202" Name="Hayate Chiến binh trăng khuyết"/>
+        <Item ID="13203" Name="Hayate Ngân lang"/>
+        <Item ID="13204" Name="Hayate Tử thần vũ trụ"/>
+        <Item ID="13205" Name="Hayate Quỷ diện"/>
+        <Item ID="13206" Name="Hayate Kim ưng sát thủ"/>
+        <Item ID="13207" Name="Hayate Bạch lang"/>
+        <Item ID="13208" Name="Hayate Bạch vô thường"/>
+        <Item ID="13209" Name="Hayate Bóng người dưới trăng"/>
+        <Item ID="13210" Name="Hayate Tu Di thánh đế"/>
+        <Item ID="13211" Name="Hayate Mãnh hổ kim cang"/>
+        <Item ID="13212" Name="Hayate Thống soái Dạ Ưng"/>
+    </Hero132>
+    <Hero133>
+        <Item ID="13301" Name="Valhein Hoàng tử quạ"/>
+        <Item ID="13302" Name="Valhein Vũ khí tối thượng"/>
+        <Item ID="13304" Name="Valhein Đại công tước"/>
+        <Item ID="13305" Name=""/>
+        <Item ID="13306" Name="Valhein Số 7 thần sầu"/>
+        <Item ID="13307" Name="Valhein Khiêu chiến"/>
+        <Item ID="13308" Name="Valhein Cá mập &quot;nghiêm túc&quot;"/>
+        <Item ID="13309" Name="Valhein Hoàng tử Băng"/>
+        <Item ID="13310" Name="Valhein Thần tài"/>
+        <Item ID="13311" Name="Valhein Xạ thần Kagutsuchi"/>
+        <Item ID="13312" Name="Valhein S - Quang vinh"/>
+        <Item ID="13313" Name="Valhein Đệ nhất thần thám"/>
+    </Hero133>
+    <Hero134>
+        <Item ID="13402" Name="Skud Sơn tặc"/>
+        <Item ID="13403" Name="Skud Quang vinh"/>
+        <Item ID="13404" Name="Skud Tà linh ma tướng"/>
+        <Item ID="13405" Name="Skud Mafia"/>
+        <Item ID="13407" Name="Skud [ex][DNT]"/>
+    </Hero134>
+    <Hero135>
+        <Item ID="13501" Name="Thane Kẻ hủy diệt"/>
+        <Item ID="13503" Name="Thane Quang vinh"/>
+        <Item ID="13504" Name="Thane Mật vụ"/>
+        <Item ID="13505" Name="Thane Bác ong bay vừa"/>
+    </Hero135>
+    <Hero136>
+        <Item ID="13601" Name="Ilumia Nữ chúa tuyết"/>
+        <Item ID="13602" Name="Ilumia Thần mặt trời"/>
+        <Item ID="13603" Name="Ilumia Hồng hoa hậu"/>
+        <Item ID="13604" Name="Ilumia Thiên nữ Áo dài"/>
+        <Item ID="13605" Name="Ilumia Nữ hoàng khí giới"/>
+        <Item ID="13606" Name="Ilumia Diva nổi loạn"/>
+        <Item ID="13607" Name="Ilumia Ngược dòng thời gian"/>
+        <Item ID="13608" Name="Ilumia Quý cô nhà hát"/>
+        <Item ID="13609" Name="Ilumia Khải Huyền Thiên Hậu"/>
+        <Item ID="13610" Name="Ilumia Trọng tài"/>
+        <Item ID="13612" Name="Ilumia Nộ hải Thiên ngư"/>
+    </Hero136>
+    <Hero137>
+        <Item ID="13701" Name="Paine Khúc nhạc tử vong"/>
+        <Item ID="13702" Name="Paine Phi vụ thế kỷ"/>
+        <Item ID="13703" Name="Paine Công tước máu"/>
+        <Item ID="13704" Name="Paine Ô Thước đại hiệp"/>
+        <Item ID="13705" Name="Paine Tử xà bá tước"/>
+    </Hero137>
+    <Hero139>
+        <Item ID="13901" Name="Kil'Groth Cảnh vệ biển"/>
+        <Item ID="13902" Name="Kil'Groth Quang vinh"/>
+        <Item ID="13903" Name="Kil'Groth Chú lính chì"/>
+    </Hero139>
+    <Hero140>
+        <Item ID="14001" Name="Superman Chúa tể công lý"/>
+        <Item ID="14002" Name="Superman Bất công lý"/>
+    </Hero140>
+    <Hero141>
+        <Item ID="14101" Name=""/>
+        <Item ID="14102" Name="Lauriel Hỏa phượng hoàng"/>
+        <Item ID="14103" Name="Lauriel Phù thủy bí ngô"/>
+        <Item ID="14104" Name="Lauriel Thánh quang sứ"/>
+        <Item ID="14105" Name="Lauriel Hoa khôi giáng sinh"/>
+        <Item ID="14106" Name="Lauriel Lạc thần"/>
+        <Item ID="14107" Name="Lauriel Tinh vân sứ"/>
+        <Item ID="14108" Name="Lauriel Tiệc bãi biển"/>
+        <Item ID="14109" Name="Lauriel Thiên sứ công nghệ"/>
+        <Item ID="14110" Name="Lauriel Phi Thiên"/>
+        <Item ID="14111" Name="Lauriel Thứ nguyên vệ thần"/>
+        <Item ID="14114" Name="Lauriel Nữ vương học đường"/>
+        <Item ID="14115" Name="Lauriel Đôi cánh Nguyệt thực"/>
+        <Item ID="14116" Name="Lauriel Nữ vương học đường"/>
+        <Item ID="14117" Name="Lauriel Vũ khúc miêu ảnh"/>
+        <Item ID="14118" Name="Lauriel Thiên nữ Dạ Ưng"/>
+    </Hero141>
+    <Hero142>
+        <Item ID="14201" Name="Natalya Mị muốn đi chơi"/>
+        <Item ID="14202" Name="Natalya Nghệ nhân lân"/>
+        <Item ID="14203" Name="Natalya Quý cô thủy tề"/>
+        <Item ID="14204" Name="Natalya Phó nháy nhí nhảnh"/>
+        <Item ID="14205" Name="Natalya Quà quái quỷ"/>
+        <Item ID="14206" Name="Natalya Nghiệp hỏa yêu hậu"/>
+        <Item ID="14207" Name="Natalya Băng tâm thần nữ"/>
+        <Item ID="14208" Name="Natalya Nữ quái công nghệ"/>
+        <Item ID="14209" Name="Natalya Nghệ sĩ ma mị"/>
+        <Item ID="14210" Name="Natalya Thần phú quý"/>
+        <Item ID="14212" Name="Natalya Biệt đội băng lam"/>
+    </Hero142>
+    <Hero144>
+        <Item ID="14401" Name="Taara Đại tù trưởng"/>
+        <Item ID="14402" Name="Taara Lam Hải chiến nữ"/>
+        <Item ID="14403" Name="Taara Hỏa ngọc nữ đế"/>
+        <Item ID="14404" Name="Taara Tiệc bãi biển"/>
+        <Item ID="14405" Name="Taara Hồng môn đường chủ"/>
+        <Item ID="14406" Name="Taara Tư lệnh hải âu"/>
+        <Item ID="14407" Name="Taara Nữ chiến binh"/>
+    </Hero144>
+    <Hero146>
+        <Item ID="14601" Name="Zill Lốc địa ngục"/>
+        <Item ID="14602" Name="Zill Dung nham"/>
+        <Item ID="14603" Name="Zill Cựu thần thiên hà"/>
+        <Item ID="14604" Name="Zill Diệt nguyệt tử sĩ"/>
+        <Item ID="14605" Name="Zill Thần Mộng Mị"/>
+        <Item ID="14606" Name="Zill Phong thần Tu La"/>
+        <Item ID="14610" Name="Zill Quái xế"/>
+    </Hero146>
+    <Hero148>
+        <Item ID="14801" Name="Preyta Không tặc"/>
+        <Item ID="14802" Name="Preyta Băng hỏa long sư"/>
+        <Item ID="14803" Name="Preyta Phi cơ F1"/>
+        <Item ID="14804" Name="Preyta Ma độc huyết long"/>
+    </Hero148>
+    <Hero149>
+        <Item ID="14901" Name="Xeniel Thiên sứ hủy diệt"/>
+        <Item ID="14902" Name="Xeniel Trung vệ thép"/>
+        <Item ID="14903" Name="Xeniel Kim sí điểu"/>
+        <Item ID="14904" Name="Xeniel Ma sứ tận thế"/>
+        <Item ID="14905" Name="Xeniel Tổng lãnh tinh hệ"/>
+        <Item ID="14906" Name="Xeniel Thần thoại Hy Lạp"/>
+        <Item ID="14908" Name="Xeniel Shipper bánh mỳ"/>
+        <Item ID="14909" Name="Xeniel Hóa thân Tengu"/>
+        <Item ID="14910" Name="Xeniel Tay trống ngang tàng"/>
+    </Hero149>
+    <Hero150>
+        <Item ID="15001" Name="Nakroth Chiến binh hỏa ngục"/>
+        <Item ID="15002" Name="Nakroth Quân đoàn địa ngục"/>
+        <Item ID="15003" Name="Nakroth Bboy công nghệ"/>
+        <Item ID="15004" Name="Nakroth Siêu việt"/>
+        <Item ID="15005" Name="Nakroth Khiêu chiến"/>
+        <Item ID="15006" Name="Nakroth Quán quân"/>
+        <Item ID="15007" Name="Nakroth Lôi quang sứ"/>
+        <Item ID="15008" Name="Nakroth Tiệc bãi biển"/>
+        <Item ID="15009" Name="Nakroth Thứ nguyên vệ thần"/>
+        <Item ID="15012" Name="Nakroth Killua"/>
+        <Item ID="15014" Name="Nakroth Producer Tia chớp"/>
+        <Item ID="15015" Name="Nakroth Bạch Diện chiến thương"/>
+        <Item ID="15032" Name="u cảm Killua 5N None"/>
+        <Item ID="15035" Name="Nakroth Siêu việt"/>
+        <Item ID="15036" Name="Nakroth Siêu việt"/>
+    </Hero150>
+    <Hero152>
+        <Item ID="15201" Name="Điêu Thuyền Nữ vương anh đào"/>
+        <Item ID="15202" Name="Điêu Thuyền Tiệc bãi biển"/>
+        <Item ID="15203" Name="Điêu Thuyền Nữ y tá"/>
+        <Item ID="15204" Name="Điêu Thuyền WaVe"/>
+        <Item ID="15205" Name="Điêu Thuyền Hoa hậu"/>
+        <Item ID="15206" Name="Điêu Thuyền Phù thủy bí ngô"/>
+        <Item ID="15207" Name="Điêu Thuyền Vũ điệu Nghê Thường"/>
+        <Item ID="15208" Name="Điêu Thuyền Tà linh pháp trượng"/>
+        <Item ID="15209" Name="Điêu Thuyền Mèo công nghệ"/>
+        <Item ID="15210" Name="Điêu Thuyền Thần ngọc"/>
+        <Item ID="15211" Name="Điêu Thuyền Thất Tịch tiên tử"/>
+        <Item ID="15212" Name="Điêu Thuyền Eternal Sailor Moon"/>
+        <Item ID="15213" Name="Điêu Thuyền Mối tình đầu"/>
+    </Hero152>
+    <Hero153>
+        <Item ID="15301" Name="Kaine Đôi cánh đại dương"/>
+        <Item ID="15302" Name="Kaine Dơi địa ngục"/>
+        <Item ID="15303" Name="Kaine Người dơi"/>
+        <Item ID="15304" Name="Kaine Chiến binh kim quang"/>
+        <Item ID="15305" Name="Kaine Thiếu chủ bóng đêm"/>
+    </Hero153>
+    <Hero154>
+        <Item ID="15401" Name="Yena Khuyên bạc"/>
+        <Item ID="15402" Name="Yena Thỏ may mắn"/>
+        <Item ID="15403" Name="Yena Chiến binh nguyệt tộc"/>
+        <Item ID="15404" Name="Yena Hoạt náo viên"/>
+        <Item ID="15405" Name="Yena Nữ hoàng thể thao"/>
+        <Item ID="15406" Name="Yena Dạ nguyệt thánh nữ"/>
+        <Item ID="15407" Name="Yena Giảng viên tình ái"/>
+        <Item ID="15408" Name="Yena Nữ cướp biển"/>
+        <Item ID="15409" Name="Yena WaVe"/>
+        <Item ID="15410" Name="Yena Vũ điệu Giáng Sinh"/>
+        <Item ID="15412" Name="Yena Huyền Cửu Thiên"/>
+    </Hero154>
+    <Hero156>
+        <Item ID="15601" Name="Aleister Thiếu niên hắc ám"/>
+        <Item ID="15602" Name="Aleister Quang vinh"/>
+        <Item ID="15603" Name="Aleister Quỷ soái nguyệt tộc"/>
+        <Item ID="15604" Name="Aleister Siêu sao bóng rổ"/>
+        <Item ID="15605" Name="Aleister Xứ sở thần tiên"/>
+        <Item ID="15606" Name="Aleister Tư lệnh viễn chinh"/>
+        <Item ID="15607" Name="Aleister Âm dương sư"/>
+        <Item ID="15608" Name="Aleister Ảo thuật gia"/>
+        <Item ID="15609" Name="Aleister Thống lĩnh hỗn mang"/>
+        <Item ID="15610" Name="Aleister Mật vụ thần thám"/>
+        <Item ID="15611" Name="Aleister HLV bất bại"/>
+        <Item ID="15612" Name="Aleister [ex]"/>
+    </Hero156>
+    <Hero157>
+        <Item ID="15702" Name="Raz Đại tù trưởng"/>
+        <Item ID="15703" Name="Raz Băng quyền quán quân"/>
+        <Item ID="15704" Name="Raz Chiến thần Muay Thái"/>
+        <Item ID="15705" Name="Raz Siêu việt"/>
+        <Item ID="15706" Name="Raz Siêu cấp tin tặc"/>
+        <Item ID="15707" Name="Raz Thám hiểm"/>
+        <Item ID="15708" Name="Raz Mãnh lôi thần quyền"/>
+        <Item ID="15709" Name="Raz MC võ đài"/>
+        <Item ID="15710" Name="Raz Bão vũ Cuồng lôi"/>
+        <Item ID="15711" Name="Raz Gon"/>
+    </Hero157>
+    <Hero159>
+        <Item ID="15901" Name="EX None"/>
+    </Hero159>
+    <Hero162>
+        <Item ID="16201" Name="Kriknak Bọ cánh bạc"/>
+        <Item ID="16202" Name="Kriknak Yêu trùng cổ mộ"/>
+        <Item ID="16203" Name="Kriknak ST.L-162"/>
+        <Item ID="16204" Name="Kriknak Bọ cánh cam"/>
+        <Item ID="16205" Name="Kriknak Tử trùng DDos"/>
+    </Hero162>
+    <Hero163>
+        <Item ID="16301" Name="Ryoma Thợ săn tiền thưởng"/>
+        <Item ID="16302" Name="Ryoma Đại tướng nguyệt tộc"/>
+        <Item ID="16303" Name="Ryoma Thanh long bang chủ"/>
+        <Item ID="16304" Name="Ryoma Samurai huyền thoại"/>
+        <Item ID="16305" Name="Ryoma Dạ hội"/>
+        <Item ID="16306" Name="Ryoma Chiến binh Cyborg"/>
+        <Item ID="16307" Name="Ryoma Ultraman"/>
+        <Item ID="16308" Name="Ryoma Đặc nhiệm Giáng sinh"/>
+        <Item ID="16309" Name="Ryoma Khiêu chiến"/>
+        <Item ID="16310" Name="Ryoma Ailing Samurai"/>
+        <Item ID="16311" Name="Ryoma Maple Frost"/>
+    </Hero163>
+    <Hero166>
+        <Item ID="16601" Name="Arthur Hoàng kim cốt"/>
+        <Item ID="16602" Name="Arthur Lãnh chúa xương"/>
+        <Item ID="16603" Name="Arthur Si tình kiếm"/>
+        <Item ID="16604" Name="Arthur Siêu sao Cricket"/>
+        <Item ID="16605" Name="Arthur Đặc cảnh băng lôi"/>
+        <Item ID="16606" Name="Arthur Hiệp sĩ trăng khuyết"/>
+        <Item ID="16607" Name="Arthur Siêu việt"/>
+        <Item ID="16608" Name="Arthur Crescent General"/>
+        <Item ID="16609" Name="Arthur Tôn Hổ vô song"/>
+        <Item ID="16610" Name="Arthur Hoàng tử Okka"/>
+        <Item ID="16611" Name="Arthur Biệt đội băng lam"/>
+    </Hero166>
+    <Hero167>
+        <Item ID="16701" Name="Ngộ Không Đạo tặc"/>
+        <Item ID="16702" Name="Ngộ Không Hỏa nhãn kim tinh"/>
+        <Item ID="16703" Name="Ngộ Không Siêu việt"/>
+        <Item ID="16704" Name="Ngộ Không Ngộ khá trẩu"/>
+        <Item ID="16705" Name="Ngộ Không Siêu việt 2.0"/>
+        <Item ID="16706" Name="Ngộ Không Đặc vụ băng hầu"/>
+        <Item ID="16707" Name="Ngộ Không Nhóc tì bá đạo"/>
+        <Item ID="16708" Name="Ngộ Không Tề Thiên ma hầu"/>
+        <Item ID="16709" Name="Ngộ Không Cổ thần Ai Cập"/>
+        <Item ID="16710" Name="Ngộ Không Tân niên Võ thần"/>
+        <Item ID="16711" Name="Ngộ Không Thần Giáp Xích Diễm"/>
+        <Item ID="16712" Name="Ngộ Không Tề Thiên Võ Thánh"/>
+    </Hero167>
+    <Hero168>
+        <Item ID="16802" Name="Lumburr Dung nham"/>
+        <Item ID="16803" Name="Lumburr Cự thần viễn cổ"/>
+        <Item ID="16804" Name="Lumburr Máy đào khoáng"/>
+        <Item ID="16805" Name="Lumburr Vệ binh hỏa diệm"/>
+    </Hero168>
+    <Hero169>
+        <Item ID="16901" Name="Slimz Thỏ thợ mỏ"/>
+        <Item ID="16902" Name="Slimz Chú thỏ ngọc"/>
+        <Item ID="16903" Name="Slimz Xứ sở thần tiên"/>
+        <Item ID="16904" Name="Slimz Thỏ nhồi bông"/>
+        <Item ID="16905" Name="Slimz Giấc mơ trưa"/>
+        <Item ID="16906" Name="Slimz Lẩu chua cay"/>
+        <Item ID="16907" Name="Slimz Sứ giả thiên giới"/>
+    </Hero169>
+    <Hero170>
+        <Item ID="17001" Name="Moren Anh thợ điện"/>
+        <Item ID="17002" Name="Moren Lính cứu hỏa"/>
+        <Item ID="17003" Name="Moren Binh nhì"/>
+    </Hero170>
+    <Hero171>
+        <Item ID="17101" Name="Cresht Thợ sửa cáp"/>
+        <Item ID="17102" Name="Cresht Cá cắn cáp"/>
+        <Item ID="17103" Name="Cresht Đại sư sushi"/>
+        <Item ID="17104" Name="Cresht Tiệc bãi biển"/>
+        <Item ID="17106" Name="Cresht Bách tướng Lão tam"/>
+    </Hero171>
+    <Hero173>
+        <Item ID="17301" Name="Fennik Nhà thám hiểm"/>
+        <Item ID="17302" Name="Fennik Đội đặc nhiệm"/>
+        <Item ID="17303" Name="Fennik Tiệc bánh kẹo"/>
+        <Item ID="17304" Name="Fennik Tuần lộc láu lỉnh"/>
+        <Item ID="17305" Name="Fennik Phi hành gia"/>
+        <Item ID="17306" Name="Fennik Tay đua F1"/>
+        <Item ID="17307" Name="Fennik Shipper Siêu thanh"/>
+        <Item ID="17308" Name="Fennik Phi hồ ẩn sĩ"/>
+        <Item ID="17309" Name="Fennik Phong tranh thám xuân"/>
+    </Hero173>
+    <Hero174>
+        <Item ID="17401" Name="Stuart Trò đùa tử vong"/>
+        <Item ID="17402" Name="Stuart Vua hề"/>
+        <Item ID="17403" Name="Stuart Gã hề"/>
+        <Item ID="17404" Name="Stuart Đêm kinh hoàng"/>
+        <Item ID="17405" Name="Stuart Đạo tặc tử quang"/>
+    </Hero174>
+    <Hero175>
+        <Item ID="17501" Name="Grakk Thuyền trưởng râu đỏ"/>
+        <Item ID="17502" Name="Grakk Khô lâu đại tướng"/>
+        <Item ID="17503" Name="Grakk Chàng gấu tuyết"/>
+        <Item ID="17504" Name="Grakk Đi vào lòng đất"/>
+        <Item ID="17505" Name="Grakk Mèo &quot;Thần tài&quot;"/>
+        <Item ID="17506" Name="Grakk Sumo"/>
+        <Item ID="17507" Name="Grakk Tiệc bãi biển"/>
+        <Item ID="17508" Name="Grakk Màu cờ sắc áo"/>
+        <Item ID="17509" Name="Grakk Vũ điệu Samba"/>
+        <Item ID="17510" Name="Grakk Cỗ xe tăng"/>
+        <Item ID="17512" Name="Grakk Cận vệ Mafia"/>
+        <Item ID="17517" Name="Grakk Thần ẩm thực"/>
+        <Item ID="17518" Name="Grakk Thủ vệ Dạ Ưng"/>
+    </Hero175>
+    <Hero177>
+        <Item ID="17701" Name="Lindis Thám tử tư"/>
+        <Item ID="17702" Name="Lindis Quang thánh tiễn"/>
+        <Item ID="17703" Name="Lindis Quang vinh"/>
+        <Item ID="17704" Name="Lindis Nữ vương pháo hoa"/>
+        <Item ID="17705" Name="Lindis Dạ tiệc"/>
+        <Item ID="17706" Name="Lindis Đồng phục Shihakusho"/>
+        <Item ID="17708" Name="Lindis Đặc vụ thần thám"/>
+    </Hero177>
+    <Hero180>
+        <Item ID="18001" Name="Max Hiệp sĩ nhí"/>
+        <Item ID="18002" Name="Max Găng tay vàng"/>
+        <Item ID="18003" Name="Max Quang vinh"/>
+        <Item ID="18004" Name="Max Thần đồng sinh hóa"/>
+        <Item ID="18005" Name="Max Thần thoại Hy Lạp"/>
+        <Item ID="18006" Name="Max Tiểu King Kong"/>
+        <Item ID="18007" Name="Max Chuyên gia đập hộp"/>
+    </Hero180>
+    <Hero184>
+        <Item ID="18403" Name="Helen Ngủ trong rừng"/>
+        <Item ID="18404" Name="Helen Hotgirl Trà sữa"/>
+        <Item ID="18405" Name="Helen Hồng liên tiên tử"/>
+        <Item ID="18406" Name="Helen Xứ sở diệu kỳ"/>
+        <Item ID="18408" Name="Helen Bé hoa xuân"/>
+    </Hero184>
+    <Hero186>
+        <Item ID="18601" Name="TeeMee Xiếc cung đình"/>
+        <Item ID="18603" Name="TeeMee Tay đua Siêu Tốc"/>
+        <Item ID="18604" Name="TeeMee Thần thoại Hy Lạp"/>
+        <Item ID="18605" Name="TeeMee Thịt xiên nướng"/>
+        <Item ID="18606" Name="TeeMee Tanuki chiêu tài"/>
+    </Hero186>
+    <Hero187>
+        <Item ID="18701" Name="Arum Thú vệ cổ mộ"/>
+        <Item ID="18702" Name="Arum Vũ khúc long hổ"/>
+        <Item ID="18703" Name="Arum Linh tượng vu nữ"/>
+        <Item ID="18704" Name="Arum Vũ khúc thần sứ"/>
+        <Item ID="18705" Name="Arum Thỏ may mắn"/>
+        <Item ID="18706" Name="Arum Nữ hoàng gấu xám"/>
+        <Item ID="18708" Name="Arum Quản lý tài năng"/>
+        <Item ID="18709" Name="Arum Bạn muốn hẹn hò?"/>
+        <Item ID="18713" Name="Arum Thần tượng nhạc rock"/>
+    </Hero187>
+    <Hero189>
+        <Item ID="18901" Name="Krizzix Cún siêu quậy"/>
+        <Item ID="18902" Name="Krizzix Đội đặc nhiệm"/>
+        <Item ID="18903" Name="Krizzix Nghệ sĩ đường phố"/>
+    </Hero189>
+    <Hero190>
+        <Item ID="19001" Name="Tulen Nhà thám hiểm"/>
+        <Item ID="19002" Name=""/>
+        <Item ID="19003" Name="Tulen Phù thủy kiến tạo"/>
+        <Item ID="19004" Name="Tulen Đông êm đềm"/>
+        <Item ID="19005" Name="Tulen Phó kỷ luật"/>
+        <Item ID="19006" Name="Tulen Tân thần hoàng kim"/>
+        <Item ID="19007" Name="Tulen Chí tôn kiếm tiên"/>
+        <Item ID="19008" Name="Tulen Dạ hội"/>
+        <Item ID="19009" Name="Tulen Thần sứ STL-79"/>
+        <Item ID="19010" Name="Tulen Hỏa thần long tộc"/>
+        <Item ID="19011" Name="Tulen Đại úy Athanor"/>
+        <Item ID="19012" Name="Tulen Tân niên vệ thần"/>
+        <Item ID="19013" Name="Tulen Tiêu Dao Vũ Thần"/>
+        <Item ID="19014" Name="Tulen Giám thị sấm sét"/>
+    </Hero190>
+    <Hero191>
+        <Item ID="19101" Name="Rouie Sứ giả vũ trụ"/>
+        <Item ID="19102" Name="Rouie Công chúa hỏa long"/>
+        <Item ID="19103" Name="Rouie Tuần lộc đáng yêu"/>
+        <Item ID="19104" Name="Rouie Vẹt cầu vồng"/>
+        <Item ID="19105" Name="Rouie Sứ giả quang minh"/>
+        <Item ID="19106" Name="Rouie Quang vinh"/>
+        <Item ID="19108" Name="Rouie Thụy mộc Thanh long"/>
+    </Hero191>
+    <Hero192>
+        <Item ID="19201" Name="Celica Nữ cao bồi"/>
+        <Item ID="19202" Name="Celica Đếm cừu"/>
+        <Item ID="19203" Name="Celica S - Quang vinh"/>
+        <Item ID="19204" Name="Celica Tâm hồn trà sữa"/>
+        <Item ID="19205" Name="Celica Biệt đội băng lam"/>
+    </Hero192>
+    <Hero193>
+        <Item ID="19301" Name="Amily Đặc cảnh NYPD"/>
+        <Item ID="19302" Name="Amily Đặc công Nhện đỏ"/>
+        <Item ID="19303" Name="Amily Thư ký"/>
+        <Item ID="19304" Name="Amily Thỏ may mắn"/>
+        <Item ID="19305" Name="Amily Võ thần thiên hà"/>
+        <Item ID="19306" Name="Amily Hội ám hoàng"/>
+        <Item ID="19307" Name="Amily Nữ đội trưởng"/>
+        <Item ID="19310" Name="Amily Khủng long xanh"/>
+    </Hero193>
+    <Hero195>
+        <Item ID="19501" Name="Enzo Phẩm chất quý tộc"/>
+        <Item ID="19502" Name="Enzo Chiến binh trăng khuyết"/>
+        <Item ID="19503" Name="Enzo Thần thoại Hy Lạp"/>
+        <Item ID="19504" Name="Enzo Nhà leo núi"/>
+        <Item ID="19505" Name="Enzo Hồng hạc thị vệ"/>
+        <Item ID="19506" Name="Enzo Sát quỷ đoàn"/>
+        <Item ID="19508" Name="Enzo Kurapika"/>
+        <Item ID="19509" Name="Enzo Sát thần Bạch Hổ"/>
+    </Hero195>
+    <Hero196>
+        <Item ID="19601" Name="Elsu Cảnh vệ thảo nguyên"/>
+        <Item ID="19602" Name="Elsu Mafia"/>
+        <Item ID="19603" Name="Elsu Guitar tình ái"/>
+        <Item ID="19604" Name="Elsu Chiến binh bóng tối"/>
+        <Item ID="19605" Name="Elsu Sứ giả tận thế"/>
+        <Item ID="19606" Name="Elsu Tuyết ưng"/>
+        <Item ID="19607" Name="Elsu Xạ thủ tinh linh"/>
+        <Item ID="19609" Name="Elsu Trấn Thiên phi hồ"/>
+        <Item ID="19611" Name="Elsu Hỏa diệm Chu Tước"/>
+        <Item ID="19612" Name="Elsu Tuyệt ảnh"/>
+    </Hero196>
+    <Hero199>
+        <Item ID="19901" Name="Elando'rr Soái tặc"/>
+        <Item ID="19902" Name="Elando'rr Phi vụ thế kỷ"/>
+        <Item ID="19903" Name="Elando'rr Học viện Carano"/>
+        <Item ID="19904" Name="Elando'rr Siêu thám tử"/>
+        <Item ID="19905" Name="Elando'rr Chú ong bay cao"/>
+        <Item ID="19906" Name="Elando'rr Tuxedo Mask"/>
+    </Hero199>
+    <Hero206>
+        <Item ID="20601" Name="Charlotte Hexsword"/>
+    </Hero206>
+    <Hero501>
+        <Item ID="50101" Name="Tel'Annas Cảnh vệ rừng"/>
+        <Item ID="50102" Name="Tel'Annas Giám thị thân thiện"/>
+        <Item ID="50103" Name="Tel'Annas Chung tình tiễn"/>
+        <Item ID="50104" Name="Tel'Annas Thánh nữ mật hội"/>
+        <Item ID="50105" Name="Tel'Annas Thần sứ F.E.E-X1"/>
+        <Item ID="50106" Name="Tel'Annas Cẩm y vệ: Phi ưng"/>
+        <Item ID="50107" Name="Tel'Annas Dạ hội"/>
+        <Item ID="50108" Name="Tel'Annas Thứ nguyên vệ thần"/>
+        <Item ID="50110" Name="Tel'Annas Công chúa mộng mơ"/>
+        <Item ID="50111" Name="Tel'Annas Vũ khúc yêu hồ"/>
+        <Item ID="50112" Name="Tel'Annas Tân niên vệ thần"/>
+        <Item ID="50113" Name="Tel'Annas Nghìn lẻ một đêm"/>
+        <Item ID="50114" Name="Tel'Annas Quang vinh"/>
+        <Item ID="50115" Name="Tel'annas Bách hoa tiên nữ"/>
+        <Item ID="50116" Name="Tel'annas Ô Thước tiên nữ"/>
+        <Item ID="50117" Name="Tel'annas Thiên Vũ Thần Long"/>
+    </Hero501>
+    <Hero502>
+        <Item ID="50201" Name="Astrid Bạch kiếm tiểu thư"/>
+        <Item ID="50202" Name="Astrid Siêu sao bóng chày"/>
+        <Item ID="50203" Name="Astrid Tổ trưởng học đường"/>
+        <Item ID="50204" Name="Astrid Thần thoại Hy Lạp"/>
+        <Item ID="50205" Name="Astrid Nữ tổng tài"/>
+        <Item ID="50206" Name="Astrid Thần trí tuệ"/>
+        <Item ID="50207" Name="Astrid Xứ sở diệu kỳ"/>
+    </Hero502>
+    <Hero503>
+        <Item ID="50302" Name="Zuka Đại phú ông"/>
+        <Item ID="50303" Name="Zuka Giáo sư sừng sỏ"/>
+        <Item ID="50304" Name="Zuka Phát tài"/>
+        <Item ID="50305" Name=""/>
+        <Item ID="50306" Name="Zuka Diệt nguyệt nguyên soái"/>
+        <Item ID="50307" Name="Zuka Đầu bếp hoàng cung"/>
+        <Item ID="50308" Name="Zuka Mãnh hổ"/>
+        <Item ID="50309" Name="Zuka Rapper Big Panda"/>
+        <Item ID="50310" Name="Zuka Ngư ông đắc lợi"/>
+    </Hero503>
+    <Hero504>
+        <Item ID="50401" Name="Wonder Woman Thế chiến"/>
+    </Hero504>
+    <Hero505>
+        <Item ID="50501" Name="Baldum Chú thợ ống nước"/>
+        <Item ID="50502" Name="Baldum Liệt hỏa dung nham"/>
+        <Item ID="50503" Name="Baldum Thần thoại Hy Lạp"/>
+        <Item ID="50504" Name="Baldum Thế giới kẹo ngọt"/>
+        <Item ID="50505" Name="Baldum Đồ chơi"/>
+    </Hero505>
+    <Hero506>
+        <Item ID="50601" Name="Omen Sĩ quan viễn chinh"/>
+        <Item ID="50602" Name="Omen Ám tử đao"/>
+        <Item ID="50603" Name="Omen Quỷ nguyệt tướng"/>
+        <Item ID="50604" Name="Omen Đao phủ tận thế"/>
+        <Item ID="50605" Name="Omen Chiến binh trăng khuyết"/>
+        <Item ID="50606" Name="Omen Thuyền trưởng hải tặc"/>
+        <Item ID="50607" Name="Omen Nhạc sĩ huyền thoại"/>
+        <Item ID="50608" Name="Omen Quái Kiệt Guitar"/>
+        <Item ID="50610" Name="Omen Huyết ảnh Tà thần"/>
+        <Item ID="50611" Name="Omen Chiến xa hắc ám"/>
+        <Item ID="50612" Name="Omen Chiến xa quang minh"/>
+    </Hero506>
+    <Hero507>
+        <Item ID="50701" Name="The Flash Tia chớp tương lai"/>
+    </Hero507>
+    <Hero508>
+        <Item ID="50801" Name="Wisp Hải tặc nhí"/>
+        <Item ID="50802" Name="Wisp Thỏ siêu quậy"/>
+        <Item ID="50803" Name="Wisp Ếch nhồi bông"/>
+        <Item ID="50805" Name="Wisp Máy phát quà"/>
+        <Item ID="50806" Name="Wisp Rồng đi bộ"/>
+        <Item ID="50807" Name="Wisp Cô bé bút chì"/>
+    </Hero508>
+    <Hero509>
+        <Item ID="50901" Name="Y'bneth Hạt trưởng kiểm lâm"/>
+        <Item ID="50902" Name="Y'bneth Chiến binh lục bảo"/>
+        <Item ID="50903" Name="Y'bneth Động cơ vĩnh cửu"/>
+    </Hero509>
+    <Hero510>
+        <Item ID="51001" Name="Liliana Hồ quý phi"/>
+        <Item ID="51002" Name="Liliana Thần tượng âm nhạc"/>
+        <Item ID="51003" Name="Liliana Nguyệt mị ly"/>
+        <Item ID="51004" Name="Liliana Tiểu thơ anh đào"/>
+        <Item ID="51005" Name="Liliana Tân nguyệt mị ly"/>
+        <Item ID="51006" Name="Liliana Nữ thần F1"/>
+        <Item ID="51007" Name="Liliana Tiệc bãi biển"/>
+        <Item ID="51008" Name="Liliana Thủy thủ hồ ly"/>
+        <Item ID="51009" Name="Liliana WaVe"/>
+        <Item ID="51013" Name="Liliana Lưu thủy Thần long"/>
+        <Item ID="51014" Name="Liliana Thần hổ Xiêm La"/>
+    </Hero510>
+    <Hero511>
+        <Item ID="51101" Name="Ata Tân thủy thủ"/>
+        <Item ID="51102" Name="Ata Cao bồi"/>
+        <Item ID="51103" Name="Ata Quang vinh"/>
+        <Item ID="51104" Name="Ata Mèo đi mưa"/>
+        <Item ID="51105" Name="Ata Chiến binh hải tộc"/>
+        <Item ID="51108" Name="Ata Gà mờ"/>
+        <Item ID="51109" Name="Ata [ex][DNT]"/>
+    </Hero511>
+    <Hero512>
+        <Item ID="51201" Name="Rourke Pháo thủ tuộc neo"/>
+        <Item ID="51202" Name="Rourke Biệt đội siêu hùng"/>
+        <Item ID="51203" Name="Rourke Cuồng tặc"/>
+        <Item ID="51204" Name="Rourke Thợ cơ khí"/>
+        <Item ID="51207" Name="Rourke Cảnh sát trưởng"/>
+        <Item ID="51208" Name="Rourke Bách tướng Lão đại"/>
+    </Hero512>
+    <Hero513>
+        <Item ID="51301" Name="Zata Tư lệnh viễn chinh"/>
+        <Item ID="51302" Name="Zata Sứ giả tinh hệ"/>
+        <Item ID="51303" Name="Zata Thần mặt trời"/>
+        <Item ID="51304" Name="Zata Khiêu chiến"/>
+        <Item ID="51305" Name="Zata Tác gia đương đại"/>
+        <Item ID="51306" Name="Zata Chí tôn Tà phượng"/>
+    </Hero513>
+    <Hero514>
+        <Item ID="51401" Name="Roxie Thám tử tập sự"/>
+        <Item ID="51402" Name="Roxie Kèn ái tình"/>
+        <Item ID="51403" Name="Roxie Hầu gái"/>
+        <Item ID="51404" Name="Roxie Tiệc bánh kẹo"/>
+        <Item ID="51405" Name="Roxie Cháy phố"/>
+        <Item ID="51406" Name="Roxie Lễ hội hoa"/>
+        <Item ID="51408" Name="Roxie Hỏa thuật sư"/>
+    </Hero514>
+    <Hero515>
+        <Item ID="51501" Name="Richter Bá tước"/>
+        <Item ID="51502" Name="Richter Thống soái kháng chiến"/>
+        <Item ID="51503" Name="Richter Dạ hội"/>
+        <Item ID="51504" Name="Richter Thần kiếm Susanoo"/>
+        <Item ID="51505" Name="Richter Quang vinh 2.0"/>
+        <Item ID="51506" Name="Richter Nguyệt loan đao"/>
+        <Item ID="51508" Name="Richter Cứu hộ"/>
+    </Hero515>
+    <Hero518>
+        <Item ID="51801" Name="Quillen Trưởng ngoại khoa"/>
+        <Item ID="51802" Name="Quillen Đặc công mãng xà"/>
+        <Item ID="51803" Name="Quillen Thống soái đế chế"/>
+        <Item ID="51804" Name="Quillen Huyết thủ nguyệt tộc"/>
+        <Item ID="51805" Name="Quillen Sao đỏ học đường"/>
+        <Item ID="51806" Name="Quillen Tà linh ma đao"/>
+        <Item ID="51807" Name="Quillen Hoàng kim soái vương"/>
+        <Item ID="51808" Name="Quillen Nghịch Thiên long đế"/>
+        <Item ID="51809" Name="Quillen Người gác đền"/>
+        <Item ID="51810" Name="Quillen Giám đốc âm nhạc"/>
+    </Hero518>
+    <Hero519>
+        <Item ID="51901" Name="Annette Nữ quản ga"/>
+        <Item ID="51902" Name="Annette Xứ sở thần tiên"/>
+        <Item ID="51903" Name="Annette Thần tượng âm nhạc"/>
+        <Item ID="51904" Name="Annette Tiệc bãi biển"/>
+        <Item ID="51905" Name="Annette Phi hành gia"/>
+        <Item ID="51906" Name="Annette Vân Mộng tiên tử"/>
+        <Item ID="51907" Name="Annette Nữ sinh Trung học"/>
+        <Item ID="51908" Name="Annette Chị ong bay thấp"/>
+        <Item ID="51909" Name="Annette Tiên tri tập sự"/>
+        <Item ID="51911" Name="Annette Băng kỳ lâm"/>
+    </Hero519>
+    <Hero520>
+        <Item ID="52001" Name="Veres Đạo tặc"/>
+        <Item ID="52002" Name="Veres Gián điệp tinh hệ"/>
+        <Item ID="52003" Name="Veres Thần thoại Hy Lạp"/>
+        <Item ID="52004" Name="Veres Chị đại học đường"/>
+        <Item ID="52006" Name="Veres Thuỷ thần kiều diễm"/>
+        <Item ID="52007" Name="Veres Kimono"/>
+        <Item ID="52008" Name="Veres Phù thủy trang điểm"/>
+        <Item ID="52009" Name="Veres Tiệc bãi biển"/>
+        <Item ID="52010" Name="Veres Men Lam Hồn Gốm"/>
+        <Item ID="52011" Name="Veres Lưu Ly Long Mẫu"/>
+    </Hero520>
+    <Hero521>
+        <Item ID="52101" Name="Florentino Vũ kiếm sư"/>
+        <Item ID="52102" Name="Florentino Giám sát tinh Hệ"/>
+        <Item ID="52103" Name="Florentino Kiếm sĩ Olympic"/>
+        <Item ID="52104" Name="Florentino Thần thoại Hy Lạp"/>
+        <Item ID="52105" Name="Florentino Seven"/>
+        <Item ID="52106" Name="Florentino Tà long kiếm sĩ"/>
+        <Item ID="52107" Name="Florentino Xứ sở thần tiên"/>
+        <Item ID="52108" Name="Florentino Bá vương Âm nhạc"/>
+        <Item ID="52110" Name="Florentino Hisoka"/>
+        <Item ID="52111" Name="Florentino Hỏa diệm Thần long"/>
+    </Hero521>
+    <Hero522>
+        <Item ID="52201" Name="Errol Vượt ngục"/>
+        <Item ID="52202" Name="Errol Diệt nguyệt tiên phong"/>
+        <Item ID="52203" Name="Errol Quái vật cương thi"/>
+        <Item ID="52204" Name="Errol Genos"/>
+        <Item ID="52205" Name="Errol Huyết thủ Tu La"/>
+        <Item ID="52207" Name="Errol Stream đến bao giờ"/>
+        <Item ID="52208" Name="Errol Sát thủ Mafia"/>
+    </Hero522>
+    <Hero523>
+        <Item ID="52301" Name="D'Arcy Nam tước"/>
+        <Item ID="52302" Name="D'Arcy Đô đốc tinh Hệ"/>
+        <Item ID="52303" Name="D'Arcy Pháp sư hỏa long"/>
+        <Item ID="52304" Name="D'Arcy Tiến sĩ thiên tài"/>
+        <Item ID="52305" Name="D'Arcy Chân nhân"/>
+    </Hero523>
+    <Hero524>
+        <Item ID="52401" Name="Capheny Hầu gái"/>
+        <Item ID="52402" Name="Capheny Thần tượng âm nhạc"/>
+        <Item ID="52403" Name="Capheny Toán Hóa Sinh"/>
+        <Item ID="52404" Name="Capheny Kimono"/>
+        <Item ID="52405" Name="Capheny Siêu cấp tin tặc"/>
+        <Item ID="52406" Name="Capheny Phi hành gia"/>
+        <Item ID="52407" Name="Capheny Harley Quinn"/>
+        <Item ID="52408" Name="Capheny Quân nhạc Mildar"/>
+        <Item ID="52410" Name="Capheny Tử đinh hương"/>
+        <Item ID="52411" Name="Capheny Vua trò chơi"/>
+        <Item ID="52412" Name="Capheny S - Quang vinh"/>
+    </Hero524>
+    <Hero525>
+        <Item ID="52501" Name="Zip Gà siêu quậy"/>
+        <Item ID="52502" Name="Zip Tiểu đệ hổ báo"/>
+        <Item ID="52503" Name="Zip Cá siêu quậy"/>
+        <Item ID="52504" Name="Zip Gà siêu cấp"/>
+        <Item ID="52505" Name="Zip Vua sân cỏ"/>
+        <Item ID="52506" Name="Zip Ông trùm Giáng sinh"/>
+    </Hero525>
+    <Hero526>
+        <Item ID="52601" Name="Ishar Giấc mơ ngọt ngào"/>
+        <Item ID="52602" Name="Ishar Tiểu thư kẹo ngọt"/>
+        <Item ID="52603" Name="Ishar Tiểu thư gấu trúc"/>
+        <Item ID="52604" Name="Ishar Lễ hội ma quái"/>
+        <Item ID="52605" Name="Ishar Gián điệp hacker"/>
+        <Item ID="52606" Name="Ishar Lễ hội ma quái"/>
+        <Item ID="52607" Name="Ishar Tiểu thư"/>
+        <Item ID="52608" Name="Ishar Rồng bé bự"/>
+        <Item ID="52609" Name="Ishar Quận chúa sông Nile"/>
+    </Hero526>
+    <Hero527>
+        <Item ID="52701" Name="Sephera Quý tiểu thư"/>
+        <Item ID="52702" Name="Sephera Chiêm tinh gia"/>
+        <Item ID="52703" Name="Sephera Thần tượng âm nhạc"/>
+        <Item ID="52704" Name="Sephera Phi vụ thế kỷ"/>
+        <Item ID="52705" Name="Sephera Thần thoại Hy Lạp"/>
+        <Item ID="52706" Name="Sephera Lam Hải phu nhân"/>
+        <Item ID="52707" Name="Sephera Thủy liên hoa"/>
+        <Item ID="52708" Name="Sephera Cô thủ thư"/>
+        <Item ID="52709" Name="Sephera Bách nhạn Ngân linh"/>
+    </Hero527>
+    <Hero528>
+        <Item ID="52801" Name="Qi Tiểu long"/>
+        <Item ID="52802" Name="Qi Đặc vụ cáo tuyết"/>
+        <Item ID="52803" Name="Qi Quán quân"/>
+        <Item ID="52804" Name="Qi Thiếu nữ pháo hoa"/>
+        <Item ID="52805" Name="Qi Blogger Ẩm thực"/>
+        <Item ID="52806" Name="Qi Búp bê Daruma"/>
+    </Hero528>
+    <Hero529>
+        <Item ID="52901" Name="Volkath Dạ huyết tộc"/>
+        <Item ID="52902" Name="Volkath Ma kỵ tử sĩ"/>
+        <Item ID="52903" Name="Volkath Xung thiên thần tướng"/>
+        <Item ID="52904" Name="Volkath Tư lệnh viễn chinh"/>
+        <Item ID="52905" Name="Volkath Chiến thần Ai Cập"/>
+        <Item ID="52906" Name="Volkath Hắc kỵ thời không"/>
+    </Hero529>
+    <Hero530>
+        <Item ID="53001" Name="Dirak Cảnh vệ bầu trời"/>
+        <Item ID="53002" Name="Dirak Pháp sư trăng khuyết"/>
+        <Item ID="53003" Name="Dirak Quý tộc Norman"/>
+        <Item ID="53005" Name="Dirak Ông bầu Showbiz"/>
+        <Item ID="53007" Name="Dirak Quà năm"/>
+    </Hero530>
+    <Hero531>
+        <Item ID="53101" Name="Keera Y tá lạ"/>
+        <Item ID="53102" Name="Keera Học viện Carano"/>
+        <Item ID="53103" Name="Keera Sát thủ bí ngô"/>
+        <Item ID="53104" Name="Keera Thủy thủ"/>
+        <Item ID="53105" Name="Keera Tiệc bãi biển"/>
+        <Item ID="53107" Name="Keera Nezuko Kamado"/>
+        <Item ID="53109" Name="Keera Nghệ sĩ Graffiti"/>
+        <Item ID="53110" Name="Keera Hồ điệp"/>
+    </Hero531>
+    <Hero532>
+        <Item ID="53201" Name="Thorne Cận vệ hoàng gia"/>
+        <Item ID="53202" Name="Thorne Giả kim thuật sư"/>
+        <Item ID="53203" Name="Thorne Quán quân"/>
+        <Item ID="53204" Name="Thorne Tiệc bãi biển"/>
+    </Hero532>
+    <Hero533>
+        <Item ID="53301" Name="Laville Tay đua đường phố"/>
+        <Item ID="53302" Name="Laville Tay súng diệt thần"/>
+        <Item ID="53303" Name="Laville Tay súng vô địch"/>
+        <Item ID="53304" Name="Laville Xạ thần Tinh Vệ"/>
+        <Item ID="53305" Name="Laville Kim Quy thần vương"/>
+        <Item ID="53306" Name="Laville Tiệc bãi biển"/>
+        <Item ID="53307" Name="Laville Sắc màu Holi"/>
+        <Item ID="53308" Name="Laville Chiến thần MOBA"/>
+        <Item ID="53309" Name="Laville Vệ binh Giáng sinh"/>
+    </Hero533>
+    <Hero534>
+        <Item ID="53401" Name="Dextra Chiến binh quyến rũ"/>
+        <Item ID="53402" Name="Dextra Quận chúa Tuyết"/>
+        <Item ID="53404" Name="Dextra Quý cô tuổi Dần"/>
+        <Item ID="53405" Name="Dextra Băng Sa công chúa"/>
+        <Item ID="53406" Name="Dextra Lữ khách cao nguyên"/>
+    </Hero534>
+    <Hero535>
+        <Item ID="53501" Name="Sinestrea Giấc mơ trưa"/>
+        <Item ID="53502" Name="Sinestrea Tiểu thư Băng giá"/>
+        <Item ID="53503" Name="Sinestrea WaVe"/>
+        <Item ID="53504" Name="Sinestrea Điệp viên cánh cụt"/>
+        <Item ID="53507" Name="Sinestrea Đại tiểu thư"/>
+        <Item ID="53508" Name="Sinestrea Tiểu thư bóng đêm"/>
+        <Item ID="53509" Name="Sinestrea Lữ khách sa mạc"/>
+        <Item ID="53510" Name="Sinestrea Giấc mộng biển xanh"/>
+    </Hero535>
+    <Hero536>
+        <Item ID="53601" Name="Aoi Sát thủ đô thị"/>
+        <Item ID="53602" Name="Aoi Hoàng kim công chúa"/>
+        <Item ID="53604" Name="Aoi Tiệc bãi biển"/>
+        <Item ID="53605" Name="Aoi Lam Hải quận chúa"/>
+        <Item ID="53606" Name="Aoi Tiểu thư Mafia"/>
+        <Item ID="53608" Name="Aoi Sát thủ Dạ Ưng"/>
+        <Item ID="53609" Name="Aoi Quán Quân"/>
+    </Hero536>
+    <Hero537>
+        <Item ID="53701" Name="Allain Hắc kiếm sĩ Kirito"/>
+        <Item ID="53702" Name="Allain Kirito"/>
+        <Item ID="53703" Name="Allain Tuyết sơn song kiếm"/>
+        <Item ID="53704" Name="Allain Thần mặt trời"/>
+        <Item ID="53705" Name="Allain Bạch kiếm sĩ"/>
+        <Item ID="53706" Name="Allain Hạo Thiên Khuyển"/>
+        <Item ID="53707" Name="Allain Tình yêu nổi loạn"/>
+    </Hero537>
+    <Hero538>
+        <Item ID="53801" Name="Iggy Tiểu hoàng đế"/>
+        <Item ID="53802" Name="Iggy Thần Miêu thiếu chủ"/>
+        <Item ID="53803" Name="Iggy Bạch hồ ly"/>
+        <Item ID="53804" Name="Iggy Yêu nhân học viện"/>
+        <Item ID="53805" Name="Iggy Tiếng thét Hỗn mang"/>
+    </Hero538>
+    <Hero539>
+        <Item ID="53901" Name="Lorion Chiến giáp hắc ám"/>
+        <Item ID="53902" Name="Lorion Hỏa vân tà thần"/>
+        <Item ID="53903" Name="Lorion Quân vương bóng tối"/>
+        <Item ID="53904" Name="Lorion Quân vương ánh sáng"/>
+    </Hero539>
+    <Hero540>
+        <Item ID="54001" Name="Bright Soái ca thánh điện"/>
+        <Item ID="54002" Name="Bright Toshiro Hitsugaya"/>
+        <Item ID="54003" Name="Bright Khiêu chiến"/>
+        <Item ID="54004" Name="Bright Mật vụ hacker"/>
+        <Item ID="54006" Name="Bright Kỳ Lân soái"/>
+        <Item ID="54007" Name="Bright Vua về nhì"/>
+    </Hero540>
+    <Hero541>
+        <Item ID="54101" Name="Bonnie Thỏ ma quái"/>
+        <Item ID="54102" Name="Bonnie Cô bé sợ ma"/>
+    </Hero541>
+    <Hero542>
+        <Item ID="54201" Name="Tachi Lãng khách"/>
+        <Item ID="54202" Name="Tachi Đao khách vô tình"/>
+        <Item ID="54203" Name="Tachi Xích long hỏa diệm"/>
+        <Item ID="54204" Name="Tachi S - Quang vinh"/>
+    </Hero542>
+    <Hero543>
+        <Item ID="54301" Name="Aya Hoạt náo viên"/>
+        <Item ID="54302" Name="Aya Điệp viên ký ức"/>
+        <Item ID="54303" Name="Aya MC Sóc nhỏ"/>
+        <Item ID="54304" Name="Aya Thủy thủ"/>
+        <Item ID="54307" Name="Aya Công chúa Cầu Vồng"/>
+    </Hero543>
+    <Hero544>
+        <Item ID="54401" Name="Yan Nhà chế tác"/>
+        <Item ID="54402" Name="Yan Tanjiro Kamado"/>
+        <Item ID="54403" Name="Yan Công tước Norman"/>
+        <Item ID="54404" Name="Yan Giấc mơ sao"/>
+    </Hero544>
+    <Hero545>
+        <Item ID="54501" Name="Yue Tiểu công chúa"/>
+        <Item ID="54503" Name="Yue Chiêm tinh gia"/>
+        <Item ID="54504" Name="Yue Vũ phiến hỏa diệm"/>
+    </Hero545>
+    <Hero546>
+        <Item ID="54601" Name="Teeri Tiểu kỳ lân"/>
+        <Item ID="54602" Name="Teeri Minh tinh ảo thuật"/>
+        <Item ID="54603" Name="Teeri Thuyền trưởng song luân"/>
+        <Item ID="54605" Name="Teeri Ốc quế ngọt ngào"/>
+    </Hero546>
+    <Hero548>
+        <Item ID="54801" Name="Bijan Chiến binh sa mạc"/>
+        <Item ID="54802" Name="Bijan Hoàng Kim cơ giáp"/>
+        <Item ID="54803" Name="Bijan Đập vỡ Cây đàn"/>
+        <Item ID="54804" Name="Bijan Kình thiên Long Kỵ"/>
+    </Hero548>
+    <Hero567>
+        <Item ID="56701" Name="Erin Mộc tinh linh"/>
+    </Hero567>
+    <Hero568>
+        <Item ID="56801" Name="Ming Thầy tướng"/>
+    </Hero568>
+    <Hero999>
+        <Item ID="99901" Name="Mặc định Thỏ - Tiểu nữ quái"/>
+        <Item ID="99902" Name="Mặc định Thỏ - Nữ quái xì teen"/>
+        <Item ID="99903" Name="Mặc định Thỏ - Nữ quái Công nghệ"/>
+        <Item ID="99904" Name="Mặc định Thỏ - Thần tượng học đường I"/>
+        <Item ID="99905" Name="Mặc định Thỏ - Thần tượng học đường II"/>
+        <Item ID="99906" Name="Mặc định Thỏ - Thần tượng học đường III"/>
+        <Item ID="99907" Name="Mặc định Thỏ - Sao đỏ học đường I"/>
+        <Item ID="99908" Name="Mặc định Thỏ - Sao đỏ học đường II"/>
+        <Item ID="99909" Name="Mặc định Thỏ - Sao đỏ học đường III"/>
+        <Item ID="99910" Name="Mặc định Thỏ - Phù thủy nhỏ I"/>
+        <Item ID="99911" Name="Mặc định Thỏ - Phù thủy nhỏ II"/>
+        <Item ID="99912" Name="Mặc định Thỏ - Phù thủy nhỏ III"/>
+        <Item ID="99913" Name="Mặc định Thỏ - Siêu cấp sát thủ I"/>
+        <Item ID="99914" Name="Mặc định Thỏ - Siêu cấp sát thủ II"/>
+        <Item ID="99915" Name="Mặc định Thỏ - Siêu cấp sát thủ III"/>
+        <Item ID="99916" Name="Mặc định Thỏ - Quỷ kiếm I"/>
+        <Item ID="99917" Name="Mặc định Thỏ - Quỷ kiếm II"/>
+        <Item ID="99918" Name="Mặc định Thỏ - Quỷ kiếm III"/>
+        <Item ID="99919" Name="Mặc định Cún- Đại tướng nguyệt tộc I"/>
+        <Item ID="99920" Name="Mặc định Cún- Đại tướng nguyệt tộc II"/>
+        <Item ID="99921" Name="Mặc định Cún- Đại tướng nguyệt tộc III"/>
+        <Item ID="99922" Name="Mặc định Cún- Gián điệp tinh hệ I"/>
+        <Item ID="99923" Name="Mặc định Cún- Gián điệp tinh hệ II"/>
+        <Item ID="99924" Name="Mặc định Cún- Gián điệp tinh hệ III"/>
+        <Item ID="99925" Name="Mặc định Cún- Siêu sao bóng chày I"/>
+        <Item ID="99926" Name="Mặc định Cún- Siêu sao bóng chày II"/>
+        <Item ID="99927" Name="Mặc định Cún- Siêu sao bóng chày III"/>
+        <Item ID="99928" Name="Mặc định Cún- Tiệc bãi biển I"/>
+        <Item ID="99929" Name="Mặc định Cún- Tiệc bãi biển II"/>
+        <Item ID="99930" Name="Mặc định Cún- Tiệc bãi biển III"/>
+        <Item ID="99931" Name="Mặc định Cún - Quyền Vương I"/>
+        <Item ID="99932" Name="Mặc định Cún - Quyền Vương II"/>
+        <Item ID="99933" Name="Mặc định Cún - Quyền Vương III"/>
+        <Item ID="99934" Name="Mặc định Cún - Thanh gươm chính nghĩa I"/>
+        <Item ID="99935" Name="Mặc định Cún - Thanh gươm chính nghĩa II"/>
+        <Item ID="99936" Name="Mặc định Cún - Thanh gươm chính nghĩa III"/>
+        <Item ID="99937" Name="Mặc định Thỏ Hội ám hoàng I"/>
+        <Item ID="99938" Name="Mặc định Thỏ Hội ám hoàng II"/>
+        <Item ID="99939" Name="Mặc định Thỏ Hội ám hoàng III"/>
+    </Hero999>
+</JOTMod>
