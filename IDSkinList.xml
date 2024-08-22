@@ -1,11 +1,12 @@
 <?xml version="1.0" ?>
-<JOTMod value="IDSkinList" >
+<SkinList>
     <Hero105>
         <Item ID="10501" Name="Toro Đặc cảnh NYPD"/>
         <Item ID="10502" Name="Toro Trung phong cắm"/>
         <Item ID="10503" Name="Toro Thần thoại Hy Lạp"/>
         <Item ID="10504" Name="Toro Ngưu hải vương"/>
         <Item ID="10505" Name="Toro Bạch mao ngưu"/>
+        <Item ID="10506" Name="Toro [ex]"/>
     </Hero105>
     <Hero106>
         <Item ID="10601" Name="Krixi None"/>
@@ -210,6 +211,7 @@
         <Item ID="12605" Name="Arduin Đường vào tim em"/>
         <Item ID="12606" Name="Arduin Bạch vệ chiến giáp"/>
         <Item ID="12607" Name="Arduin Organ cổ quái"/>
+        <Item ID="12608" Name="Arduin [ex][DNT]"/>
     </Hero126>
     <Hero127>
         <Item ID="12702" Name="Azzen'Ka Linh hồn lữ khách"/>
@@ -228,6 +230,7 @@
         <Item ID="12808" Name="Lữ Bố Ichigo Kurosaki"/>
         <Item ID="12809" Name="Lữ Bố Thần ngọc"/>
         <Item ID="12810" Name="Lữ Bố Vũ điệu samba"/>
+        <Item ID="12812" Name="Lữ Bố [ex]未命名"/>
     </Hero128>
     <Hero129>
         <Item ID="12901" Name="Triệu Vân Tiến sĩ thiên tài"/>
@@ -384,6 +387,7 @@
         <Item ID="14405" Name="Taara Hồng môn đường chủ"/>
         <Item ID="14406" Name="Taara Tư lệnh hải âu"/>
         <Item ID="14407" Name="Taara Nữ chiến binh"/>
+        <Item ID="14411" Name="Taara [ex]"/>
     </Hero144>
     <Hero146>
         <Item ID="14601" Name="Zill Lốc địa ngục"/>
@@ -553,6 +557,7 @@
         <Item ID="16905" Name="Slimz Giấc mơ trưa"/>
         <Item ID="16906" Name="Slimz Lẩu chua cay"/>
         <Item ID="16907" Name="Slimz Sứ giả thiên giới"/>
+        <Item ID="16909" Name="Slimz [ex][DNT]"/>
     </Hero169>
     <Hero170>
         <Item ID="17001" Name="Moren Anh thợ điện"/>
@@ -640,6 +645,7 @@
         <Item ID="18706" Name="Arum Nữ hoàng gấu xám"/>
         <Item ID="18708" Name="Arum Quản lý tài năng"/>
         <Item ID="18709" Name="Arum Bạn muốn hẹn hò?"/>
+        <Item ID="18712" Name="Arum [ex]"/>
         <Item ID="18713" Name="Arum Thần tượng nhạc rock"/>
     </Hero187>
     <Hero189>
@@ -931,6 +937,7 @@
         <Item ID="52410" Name="Capheny Tử đinh hương"/>
         <Item ID="52411" Name="Capheny Vua trò chơi"/>
         <Item ID="52412" Name="Capheny S - Quang vinh"/>
+        <Item ID="52413" Name="Capheny None"/>
     </Hero524>
     <Hero525>
         <Item ID="52501" Name="Zip Gà siêu quậy"/>
@@ -969,6 +976,7 @@
         <Item ID="52804" Name="Qi Thiếu nữ pháo hoa"/>
         <Item ID="52805" Name="Qi Blogger Ẩm thực"/>
         <Item ID="52806" Name="Qi Búp bê Daruma"/>
+        <Item ID="52808" Name="Qi [ex][DNT]"/>
     </Hero528>
     <Hero529>
         <Item ID="52901" Name="Volkath Dạ huyết tộc"/>
@@ -1011,6 +1019,7 @@
         <Item ID="53307" Name="Laville Sắc màu Holi"/>
         <Item ID="53308" Name="Laville Chiến thần MOBA"/>
         <Item ID="53309" Name="Laville Vệ binh Giáng sinh"/>
+        <Item ID="53310" Name="Laville None"/>
     </Hero533>
     <Hero534>
         <Item ID="53401" Name="Dextra Chiến binh quyến rũ"/>
@@ -1077,6 +1086,7 @@
         <Item ID="54202" Name="Tachi Đao khách vô tình"/>
         <Item ID="54203" Name="Tachi Xích long hỏa diệm"/>
         <Item ID="54204" Name="Tachi S - Quang vinh"/>
+        <Item ID="54205" Name="Tachi [ex][DNT]"/>
     </Hero542>
     <Hero543>
         <Item ID="54301" Name="Aya Hoạt náo viên"/>
@@ -1110,6 +1120,7 @@
     </Hero548>
     <Hero567>
         <Item ID="56701" Name="Erin Mộc tinh linh"/>
+        <Item ID="56703" Name="Erin None"/>
     </Hero567>
     <Hero568>
         <Item ID="56801" Name="Ming Thầy tướng"/>
@@ -1155,4 +1166,4 @@
         <Item ID="99938" Name="Mặc định Thỏ Hội ám hoàng II"/>
         <Item ID="99939" Name="Mặc định Thỏ Hội ám hoàng III"/>
     </Hero999>
-</JOTMod>
+</SkinList>
