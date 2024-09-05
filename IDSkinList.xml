@@ -90,17 +90,17 @@
         <Item ID="11119" Name="Violet Vọng nguyệt Long Cơ"/>
     </Hero111>
     <Hero112>
-        <Item ID="11201" Name="Yorn Cung thủ bóng đêm"/>
-        <Item ID="11202" Name=""/>
-        <Item ID="11203" Name="Yorn Đặc nhiệm SWAT"/>
+        <Item ID="11201" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11202" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11203" Name="Yorn Phá Vân tiễn"/>
         <Item ID="11204" Name="Yorn Phá Vân tiễn"/>
-        <Item ID="11205" Name="Yorn Long thần soái"/>
-        <Item ID="11206" Name="Yorn Nam thần giáng sinh"/>
-        <Item ID="11207" Name="Yorn Soái ca học đường"/>
-        <Item ID="11208" Name="Yorn Thần thoại Hy Lạp"/>
-        <Item ID="11209" Name="Yorn Lục nguyệt cung"/>
-        <Item ID="11211" Name="Yorn Tiệc bãi biển"/>
-        <Item ID="11212" Name="Yorn Vệ Binh ngân hà"/>
+        <Item ID="11205" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11206" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11207" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11208" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11209" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11211" Name="Yorn Phá Vân tiễn"/>
+        <Item ID="11212" Name="Yorn Phá Vân tiễn"/>
     </Hero112>
     <Hero113>
         <Item ID="11301" Name="Chaugnar Ác mộng sinh hóa"/>
@@ -118,6 +118,7 @@
         <Item ID="11503" Name="Jinna Hỏa nhãn ma vương"/>
         <Item ID="11504" Name="Jinna Kim quang thánh đồ"/>
         <Item ID="11506" Name="Jinna Kim giác"/>
+        <Item ID="11507" Name="Jinna [ex][DNT]"/>
     </Hero115>
     <Hero116>
         <Item ID="11601" Name="Butterfly Xuân nữ ngổ ngáo"/>
@@ -135,7 +136,6 @@
         <Item ID="11616" Name="Butterfly Nữ thần Khởi nguyên"/>
         <Item ID="11618" Name="Butterfly Tình yêu nổi loạn"/>
         <Item ID="11619" Name="Butterfly [ex]未命名"/>
-        <Item ID="11632" Name="u cảm Killua 5N None"/>
     </Hero116>
     <Hero117>
         <Item ID="11701" Name="Ormarr Cựu chiến binh"/>
@@ -166,6 +166,7 @@
         <Item ID="11904" Name="Mganga Nhà hóa học"/>
         <Item ID="11905" Name="Mganga Độc toàn thân"/>
         <Item ID="11906" Name="Mganga Quái tặc không gian"/>
+        <Item ID="11907" Name="Mganga [ex][DNT]"/>
     </Hero119>
     <Hero120>
         <Item ID="12001" Name="Mina Tiểu thư đoạt hồn"/>
@@ -242,6 +243,7 @@
         <Item ID="12907" Name="Triệu Vân Kỵ sĩ tận thế"/>
         <Item ID="12908" Name="Triệu Vân Cẩm y vệ: Hỏa long"/>
         <Item ID="12910" Name="Triệu Vân Thần tài"/>
+        <Item ID="12912" Name="Triệu Vân [ex]"/>
     </Hero129>
     <Hero130>
         <Item ID="13001" Name="Airi Thích khách"/>
@@ -258,6 +260,7 @@
         <Item ID="13012" Name="Airi Lễ hội mùa xuân"/>
         <Item ID="13013" Name="Airi Thánh nữ Xiêm La"/>
         <Item ID="13015" Name="Airi Thứ nguyên Vệ thần"/>
+        <Item ID="13018" Name="Airi [ex]未命名"/>
     </Hero130>
     <Hero131>
         <Item ID="13101" Name="Murad Thợ săn tiền thưởng"/>
@@ -311,7 +314,6 @@
         <Item ID="13403" Name="Skud Quang vinh"/>
         <Item ID="13404" Name="Skud Tà linh ma tướng"/>
         <Item ID="13405" Name="Skud Mafia"/>
-        <Item ID="13407" Name="Skud [ex][DNT]"/>
     </Hero134>
     <Hero135>
         <Item ID="13501" Name="Thane Kẻ hủy diệt"/>
@@ -378,6 +380,7 @@
         <Item ID="14209" Name="Natalya Nghệ sĩ ma mị"/>
         <Item ID="14210" Name="Natalya Thần phú quý"/>
         <Item ID="14212" Name="Natalya Biệt đội băng lam"/>
+        <Item ID="14213" Name="Natalya [ex][DNT]"/>
     </Hero142>
     <Hero144>
         <Item ID="14401" Name="Taara Đại tù trưởng"/>
@@ -397,6 +400,7 @@
         <Item ID="14605" Name="Zill Thần Mộng Mị"/>
         <Item ID="14606" Name="Zill Phong thần Tu La"/>
         <Item ID="14610" Name="Zill Quái xế"/>
+        <Item ID="14611" Name="Zill [ex]"/>
     </Hero146>
     <Hero148>
         <Item ID="14801" Name="Preyta Không tặc"/>
@@ -428,9 +432,6 @@
         <Item ID="15012" Name="Nakroth Killua"/>
         <Item ID="15014" Name="Nakroth Producer Tia chớp"/>
         <Item ID="15015" Name="Nakroth Bạch Diện chiến thương"/>
-        <Item ID="15032" Name="u cảm Killua 5N None"/>
-        <Item ID="15035" Name="Nakroth Siêu việt"/>
-        <Item ID="15036" Name="Nakroth Siêu việt"/>
     </Hero150>
     <Hero152>
         <Item ID="15201" Name="Điêu Thuyền Nữ vương anh đào"/>
@@ -627,6 +628,7 @@
         <Item ID="18404" Name="Helen Hotgirl Trà sữa"/>
         <Item ID="18405" Name="Helen Hồng liên tiên tử"/>
         <Item ID="18406" Name="Helen Xứ sở diệu kỳ"/>
+        <Item ID="18407" Name="Helen [ex][DNT]"/>
         <Item ID="18408" Name="Helen Bé hoa xuân"/>
     </Hero184>
     <Hero186>
@@ -804,6 +806,7 @@
         <Item ID="50901" Name="Y'bneth Hạt trưởng kiểm lâm"/>
         <Item ID="50902" Name="Y'bneth Chiến binh lục bảo"/>
         <Item ID="50903" Name="Y'bneth Động cơ vĩnh cửu"/>
+        <Item ID="50904" Name="Y'bneth [ex][DNT]"/>
     </Hero509>
     <Hero510>
         <Item ID="51001" Name="Liliana Hồ quý phi"/>
@@ -872,6 +875,7 @@
         <Item ID="51808" Name="Quillen Nghịch Thiên long đế"/>
         <Item ID="51809" Name="Quillen Người gác đền"/>
         <Item ID="51810" Name="Quillen Giám đốc âm nhạc"/>
+        <Item ID="51812" Name="Quillen [ex]"/>
     </Hero518>
     <Hero519>
         <Item ID="51901" Name="Annette Nữ quản ga"/>
@@ -1162,8 +1166,5 @@
         <Item ID="99934" Name="Mặc định Cún - Thanh gươm chính nghĩa I"/>
         <Item ID="99935" Name="Mặc định Cún - Thanh gươm chính nghĩa II"/>
         <Item ID="99936" Name="Mặc định Cún - Thanh gươm chính nghĩa III"/>
-        <Item ID="99937" Name="Mặc định Thỏ Hội ám hoàng I"/>
-        <Item ID="99938" Name="Mặc định Thỏ Hội ám hoàng II"/>
-        <Item ID="99939" Name="Mặc định Thỏ Hội ám hoàng III"/>
     </Hero999>
 </SkinList>
