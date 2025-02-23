@@ -1,12 +1,10 @@
 {
   "JOTMod": {
+    "Version": "1.0.0.0",
+    "Code" : "570ceee29dad6560",
     "SkinCustom": [
-      {
-        "Name": "r",
-        "PNG": "r",
-        "NameYTB": "r",
-        "key": "r"
-      }
-    ]
+      
+    ],
+    "PackList": []
   }
 }
