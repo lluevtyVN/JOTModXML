@@ -3,732 +3,750 @@
         "name": "Toro",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301050head.jpg",
         "Numbers": 7,
-        "id": "105"
+        "id": 105
     },
     {
         "name": "Krixi",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301060head.jpg",
         "Numbers": 16,
-        "id": "106"
+        "id": 106
     },
     {
         "name": "Zephys",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301070head.jpg",
         "Numbers": 11,
-        "id": "107"
+        "id": 107
     },
     {
         "name": "Gildur",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301080head.jpg",
         "Numbers": 9,
-        "id": "108"
+        "id": 108
     },
     {
         "name": "Veera",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301090head.jpg",
         "Numbers": 15,
-        "id": "109"
+        "id": 109
     },
     {
         "name": "Kahlii",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301100head.jpg",
         "Numbers": 9,
-        "id": "110"
+        "id": 110
     },
     {
         "name": "Violet",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301110head.jpg",
         "Numbers": 19,
-        "id": "111"
+        "id": 111
     },
     {
         "name": "Yorn",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301120head.jpg",
         "Numbers": 13,
-        "id": "112"
+        "id": 112
     },
     {
         "name": "Chaugnar",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301130head.jpg",
         "Numbers": 4,
-        "id": "113"
+        "id": 113
     },
     {
         "name": "Omega",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301140head.jpg",
         "Numbers": 5,
-        "id": "114"
+        "id": 114
     },
     {
         "name": "Jinna",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301150head.jpg",
         "Numbers": 7,
-        "id": "115"
+        "id": 115
     },
     {
         "name": "Butterfly",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301160head.jpg",
         "Numbers": 22,
-        "id": "116"
+        "id": 116
     },
     {
         "name": "Ormarr",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301170head.jpg",
         "Numbers": 6,
-        "id": "117"
+        "id": 117
     },
     {
         "name": "Alice",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301180head.jpg",
         "Numbers": 14,
-        "id": "118"
+        "id": 118
     },
     {
         "name": "Mganga",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301190head.jpg",
         "Numbers": 8,
-        "id": "119"
+        "id": 119
     },
     {
         "name": "Mina",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301200head.jpg",
         "Numbers": 10,
-        "id": "120"
+        "id": 120
     },
     {
         "name": "Marja",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301210head.jpg",
         "Numbers": 7,
-        "id": "121"
+        "id": 121
     },
     {
         "name": "Maloch",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301230head.jpg",
         "Numbers": 11,
-        "id": "123"
+        "id": 123
     },
     {
         "name": "Ignis",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301240head.jpg",
         "Numbers": 7,
-        "id": "124"
+        "id": 124
     },
     {
         "name": "Arduin",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301260head.jpg",
         "Numbers": 9,
-        "id": "126"
+        "id": 126
     },
     {
         "name": "Azzen'Ka",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301270head.jpg",
         "Numbers": 6,
-        "id": "127"
+        "id": 127
     },
     {
         "name": "Lữ Bố",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301280head.jpg",
         "Numbers": 12,
-        "id": "128"
+        "id": 128
     },
     {
         "name": "Triệu Vân",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301290head.jpg",
         "Numbers": 11,
-        "id": "129"
+        "id": 129
     },
     {
         "name": "Airi",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301300head.jpg",
         "Numbers": 17,
-        "id": "130"
+        "id": 130
     },
     {
         "name": "Murad",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301310head.jpg",
         "Numbers": 18,
-        "id": "131"
+        "id": 131
     },
     {
         "name": "Hayate",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301320head.jpg",
         "Numbers": 13,
-        "id": "132"
+        "id": 132
     },
     {
         "name": "Valhein",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301330head.jpg",
         "Numbers": 13,
-        "id": "133"
+        "id": 133
     },
     {
         "name": "Skud",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301340head.jpg",
         "Numbers": 6,
-        "id": "134"
+        "id": 134
     },
     {
         "name": "Thane",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301350head.jpg",
         "Numbers": 5,
-        "id": "135"
+        "id": 135
     },
     {
         "name": "Ilumia",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301360head.jpg",
         "Numbers": 14,
-        "id": "136"
+        "id": 136
     },
     {
         "name": "Paine",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301370head.jpg",
         "Numbers": 6,
-        "id": "137"
+        "id": 137
     },
     {
         "name": "Kil'Groth",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301390head.jpg",
         "Numbers": 5,
-        "id": "139"
+        "id": 139
     },
     {
         "name": "Superman",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301400head.jpg",
         "Numbers": 3,
-        "id": "140"
+        "id": 140
     },
     {
         "name": "Lauriel",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301410head.jpg",
         "Numbers": 17,
-        "id": "141"
+        "id": 141
     },
     {
         "name": "Natalya",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301420head.jpg",
         "Numbers": 13,
-        "id": "142"
+        "id": 142
     },
     {
         "name": "Taara",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301440head.jpg",
         "Numbers": 9,
-        "id": "144"
+        "id": 144
     },
     {
         "name": "Zill",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301460head.jpg",
         "Numbers": 9,
-        "id": "146"
+        "id": 146
     },
     {
         "name": "Preyta",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301480head.jpg",
         "Numbers": 5,
-        "id": "148"
+        "id": 148
     },
     {
         "name": "Xeniel",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301490head.jpg",
         "Numbers": 10,
-        "id": "149"
+        "id": 149
     },
     {
         "name": "Nakroth",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301500head.jpg",
         "Numbers": 19,
-        "id": "150"
+        "id": 150
     },
     {
         "name": "Điêu Thuyền",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301520head.jpg",
         "Numbers": 15,
-        "id": "152"
+        "id": 152
     },
     {
         "name": "Kaine",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301530head.jpg",
         "Numbers": 6,
-        "id": "153"
+        "id": 153
     },
     {
         "name": "Yena",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301540head.jpg",
         "Numbers": 13,
-        "id": "154"
+        "id": 154
     },
     {
         "name": "Aleister",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301560head.jpg",
         "Numbers": 13,
-        "id": "156"
+        "id": 156
     },
     {
         "name": "Raz",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301570head.jpg",
         "Numbers": 11,
-        "id": "157"
+        "id": 157
     },
     {
         "name": "EX",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301590head.jpg",
         "Numbers": 3,
-        "id": "159"
+        "id": 159
     },
     {
         "name": "Kriknak",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301620head.jpg",
         "Numbers": 6,
-        "id": "162"
+        "id": 162
     },
     {
         "name": "Ryoma",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301630head.jpg",
         "Numbers": 12,
-        "id": "163"
+        "id": 163
     },
     {
         "name": "Arthur",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301660head.jpg",
         "Numbers": 12,
-        "id": "166"
+        "id": 166
     },
     {
         "name": "Ngộ Không",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301670head.jpg",
         "Numbers": 13,
-        "id": "167"
+        "id": 167
     },
     {
         "name": "Lumburr",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301680head.jpg",
         "Numbers": 5,
-        "id": "168"
+        "id": 168
     },
     {
         "name": "Slimz",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301690head.jpg",
         "Numbers": 9,
-        "id": "169"
+        "id": 169
     },
     {
         "name": "Moren",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301700head.jpg",
         "Numbers": 4,
-        "id": "170"
+        "id": 170
     },
     {
         "name": "Cresht",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301710head.jpg",
         "Numbers": 6,
-        "id": "171"
+        "id": 171
     },
     {
         "name": "Fennik",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301730head.jpg",
         "Numbers": 10,
-        "id": "173"
+        "id": 173
     },
     {
         "name": "Stuart",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301740head.jpg",
         "Numbers": 7,
-        "id": "174"
+        "id": 174
     },
     {
         "name": "Grakk",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301750head.jpg",
         "Numbers": 14,
-        "id": "175"
+        "id": 175
     },
     {
         "name": "Lindis",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301770head.jpg",
         "Numbers": 8,
-        "id": "177"
+        "id": 177
     },
     {
         "name": "Max",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301800head.jpg",
         "Numbers": 9,
-        "id": "180"
+        "id": 180
     },
     {
         "name": "Helen",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301840head.jpg",
         "Numbers": 7,
-        "id": "184"
+        "id": 184
     },
     {
         "name": "TeeMee",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301860head.jpg",
         "Numbers": 7,
-        "id": "186"
+        "id": 186
     },
     {
         "name": "Arum",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301870head.jpg",
         "Numbers": 11,
-        "id": "187"
+        "id": 187
     },
     {
         "name": "Krizzix",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301890head.jpg",
         "Numbers": 5,
-        "id": "189"
+        "id": 189
     },
     {
         "name": "Tulen",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301900head.jpg",
         "Numbers": 16,
-        "id": "190"
+        "id": 190
     },
     {
         "name": "Rouie",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301910head.jpg",
         "Numbers": 9,
-        "id": "191"
+        "id": 191
     },
     {
         "name": "Celica",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301920head.jpg",
         "Numbers": 6,
-        "id": "192"
+        "id": 192
     },
     {
         "name": "Amily",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301930head.jpg",
         "Numbers": 9,
-        "id": "193"
+        "id": 193
     },
     {
         "name": "Wiro",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301940head.jpg",
         "Numbers": 1,
-        "id": "194"
+        "id": 194
     },
     {
         "name": "Enzo",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301950head.jpg",
         "Numbers": 9,
-        "id": "195"
+        "id": 195
     },
     {
         "name": "Elsu",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301960head.jpg",
         "Numbers": 12,
-        "id": "196"
+        "id": 196
     },
     {
         "name": "Elando'rr",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/301990head.jpg",
         "Numbers": 8,
-        "id": "199"
+        "id": 199
     },
     {
         "name": "Charlotte",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/302060head.jpg",
         "Numbers": 2,
-        "id": "206"
+        "id": 206
     },
     {
         "name": "Tel'Annas",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305010head.jpg",
         "Numbers": 18,
-        "id": "501"
+        "id": 501
     },
     {
         "name": "Astrid",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305020head.jpg",
         "Numbers": 8,
-        "id": "502"
+        "id": 502
     },
     {
         "name": "Zuka",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305030head.jpg",
         "Numbers": 10,
-        "id": "503"
+        "id": 503
     },
     {
         "name": "Wonder Woman",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305040head.jpg",
         "Numbers": 2,
-        "id": "504"
+        "id": 504
     },
     {
         "name": "Baldum",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305050head.jpg",
         "Numbers": 6,
-        "id": "505"
+        "id": 505
     },
     {
         "name": "Omen",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305060head.jpg",
         "Numbers": 12,
-        "id": "506"
+        "id": 506
     },
     {
         "name": "The Flash",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305070head.jpg",
         "Numbers": 2,
-        "id": "507"
+        "id": 507
     },
     {
         "name": "Wisp",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305080head.jpg",
         "Numbers": 7,
-        "id": "508"
+        "id": 508
     },
     {
         "name": "Y'bneth",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305090head.jpg",
         "Numbers": 7,
-        "id": "509"
+        "id": 509
     },
     {
         "name": "Liliana",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305100head.jpg",
         "Numbers": 13,
-        "id": "510"
+        "id": 510
     },
     {
         "name": "Ata",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305110head.jpg",
         "Numbers": 8,
-        "id": "511"
+        "id": 511
     },
     {
         "name": "Rourke",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305120head.jpg",
         "Numbers": 7,
-        "id": "512"
+        "id": 512
     },
     {
         "name": "Zata",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305130head.jpg",
         "Numbers": 8,
-        "id": "513"
+        "id": 513
     },
     {
         "name": "Roxie",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305140head.jpg",
         "Numbers": 8,
-        "id": "514"
+        "id": 514
     },
     {
         "name": "Richter",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305150head.jpg",
         "Numbers": 8,
-        "id": "515"
+        "id": 515
     },
     {
         "name": "Quillen",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305180head.jpg",
         "Numbers": 12,
-        "id": "518"
+        "id": 518
     },
     {
         "name": "Annette",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305190head.jpg",
         "Numbers": 11,
-        "id": "519"
+        "id": 519
     },
     {
         "name": "Veres",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305200head.jpg",
         "Numbers": 12,
-        "id": "520"
+        "id": 520
     },
     {
         "name": "Florentino",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305210head.jpg",
         "Numbers": 11,
-        "id": "521"
+        "id": 521
     },
     {
         "name": "Errol",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305220head.jpg",
         "Numbers": 8,
-        "id": "522"
+        "id": 522
     },
     {
         "name": "D'Arcy",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305230head.jpg",
         "Numbers": 7,
-        "id": "523"
+        "id": 523
     },
     {
         "name": "Capheny",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305240head.jpg",
         "Numbers": 14,
-        "id": "524"
+        "id": 524
     },
     {
         "name": "Zip",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305250head.jpg",
         "Numbers": 8,
-        "id": "525"
+        "id": 525
     },
     {
         "name": "Ishar",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305260head.jpg",
         "Numbers": 10,
-        "id": "526"
+        "id": 526
     },
     {
         "name": "Sephera",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305270head.jpg",
         "Numbers": 11,
-        "id": "527"
+        "id": 527
     },
     {
         "name": "Qi",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305280head.jpg",
         "Numbers": 8,
-        "id": "528"
+        "id": 528
     },
     {
         "name": "Volkath",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305290head.jpg",
         "Numbers": 8,
-        "id": "529"
+        "id": 529
     },
     {
         "name": "Dirak",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305300head.jpg",
         "Numbers": 6,
-        "id": "530"
+        "id": 530
     },
     {
         "name": "Keera",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305310head.jpg",
         "Numbers": 10,
-        "id": "531"
+        "id": 531
     },
     {
         "name": "Thorne",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305320head.jpg",
         "Numbers": 6,
-        "id": "532"
+        "id": 532
     },
     {
         "name": "Laville",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305330head.jpg",
         "Numbers": 11,
-        "id": "533"
+        "id": 533
     },
     {
         "name": "Dextra",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305340head.jpg",
         "Numbers": 6,
-        "id": "534"
+        "id": 534
     },
     {
         "name": "Sinestrea",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305350head.jpg",
         "Numbers": 10,
-        "id": "535"
+        "id": 535
     },
     {
         "name": "Aoi",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305360head.jpg",
         "Numbers": 8,
-        "id": "536"
+        "id": 536
     },
     {
         "name": "Allain",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305370head.jpg",
         "Numbers": 9,
-        "id": "537"
+        "id": 537
     },
     {
         "name": "Iggy",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305380head.jpg",
         "Numbers": 6,
-        "id": "538"
+        "id": 538
     },
     {
         "name": "Lorion",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305390head.jpg",
         "Numbers": 5,
-        "id": "539"
+        "id": 539
     },
     {
         "name": "Bright",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305400head.jpg",
         "Numbers": 8,
-        "id": "540"
+        "id": 540
     },
     {
         "name": "Bonnie",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305410head.jpg",
         "Numbers": 3,
-        "id": "541"
+        "id": 541
     },
     {
         "name": "Tachi",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305420head.jpg",
         "Numbers": 7,
-        "id": "542"
+        "id": 542
     },
     {
         "name": "Aya",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305430head.jpg",
         "Numbers": 7,
-        "id": "543"
+        "id": 543
     },
     {
         "name": "Yan",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305440head.jpg",
         "Numbers": 6,
-        "id": "544"
+        "id": 544
     },
     {
         "name": "Yue",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305450head.jpg",
         "Numbers": 5,
-        "id": "545"
+        "id": 545
     },
     {
         "name": "Teeri",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305460head.jpg",
         "Numbers": 5,
-        "id": "546"
+        "id": 546
     },
     {
         "name": "Bijan",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305480head.jpg",
         "Numbers": 5,
-        "id": "548"
+        "id": 548
     },
     {
         "name": "Erin",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305670head.jpg",
         "Numbers": 4,
-        "id": "567"
+        "id": 567
     },
     {
         "name": "Ming",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305680head.jpg",
         "Numbers": 2,
-        "id": "568"
+        "id": 568
     },
     {
         "name": "Biron",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305970head.jpg",
         "Numbers": 3,
-        "id": "597"
+        "id": 597
     },
     {
         "name": "Bolt Baron",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305980head.jpg",
         "Numbers": 3,
-        "id": "598"
+        "id": 598
     },
     {
         "name": "Billow",
         "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/305990head.jpg",
         "Numbers": 2,
-        "id": "599"
+        "id": 599
+    },
+    {
+        "name": "Rối Arthur",
+        "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/308080head.jpg",
+        "Numbers": 1,
+        "id": 808
+    },
+    {
+        "name": "Rối Tel",
+        "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/308090head.jpg",
+        "Numbers": 1,
+        "id": 809
+    },
+    {
+        "name": "Tiểu Cara",
+        "url-img": "https://dl.ops.kgtw.garenanow.com/CHT/HeroHeadPath/309990head.jpg",
+        "Numbers": 40,
+        "id": 999
     }
 ]
